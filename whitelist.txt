@@ -244,6 +244,7 @@
 @@|archive.org^$important
 @@|arctic.emsisoft.com^$important
 @@|ark.mwbsys.com^$important
+@@|asia.creativecdn.com^$important
 @@|asia.playstation.com^$important
 @@|askleo.askleomedia.com^$important
 @@|askleo.com^$important
@@ -258,6 +259,7 @@
 @@|assets.freeones.com^$important
 @@|assets.gitlab-static.net^$important
 @@|assets.hulu.com^$important
+@@|assets.kogan.com^$important
 @@|assets.msn.com^$important
 @@|assets.onestore.ms^$important
 @@|assets.pippa.io^$important
@@ -321,6 +323,7 @@
 @@|beige.xboxservices.com^$important
 @@|bella.porntrex.com^$important
 @@|bethesda.net^$important
+@@|bibo.api.swiftkey.com^$important
 @@|bigw.com.au^$important
 @@|binary-factory.kde.org^$important
 @@|bing.at^$important
@@ -1013,6 +1016,7 @@
 @@|help-assets.soundcloud.com^$important
 @@|help.evernote.com^$important
 @@|help.kaspersky.com^$important
+@@|help.kogan.com^$important
 @@|help.netflix.com^$important
 @@|help.soundcloud.com^$important
 @@|help.twitch.tv^$important
@@ -1071,6 +1075,7 @@
 @@|identity.energyaustralia.com.au^$important
 @@|im.twitch.tv^$important
 @@|image.engage.xbox.com^$important
+@@|image.flaticon.com^$important
 @@|image.samsung.com^$important
 @@|image.status.xbox.com^$important
 @@|imagecurl.com^$important
@@ -1109,6 +1114,7 @@
 @@|img.freeones.com^$important
 @@|img.hulu.com^$important
 @@|img.itch.zone^$important
+@@|img.shields.io^$important
 @@|img.x.soundcloud.com^$important
 @@|img.xda-developers.com^$important
 @@|img.youtube.com^$important
@@ -1450,6 +1456,7 @@
 @@|opentor.net^$important
 @@|opentracker.i2p.rocks^$important
 @@|opentracker.xyz^$important
+@@|openuserjs.org^$important
 @@|openvsxorg.blob.core.windows.net^$important
 @@|oppen.digital^$important
 @@|oracle.com^$important
@@ -1996,6 +2003,7 @@
 @@|up*.debrid.link^$important
 @@|up.raindrop.io^$important
 @@|upchk.api.playstation.com^$important
+@@|update*.jdownloader.org^$important
 @@|update*.oo-software.com^$important
 @@|update.appwork.org^$important
 @@|update.bitsum.com^$important
@@ -2033,6 +2041,7 @@
 @@|userpresence.xboxlive.com^$important
 @@|users.nexusmods.com^$important
 @@|userstats.xboxlive.com^$important
+@@|userstyles.world^$important
 @@|usher.ttvnw.net^$important
 @@|v.firebog.net^$important
 @@|v20.events.data.microsoft.com^$important
@@ -2073,6 +2082,7 @@
 @@|vscode-sync.trafficmanager.net^$important
 @@|vscodium.now.sh^$important
 @@|vscodium.vercel.app^$important
+@@|vsmarketplacebadge.apphb.com^$important
 @@|vsstartpagenewsfeed.azureedge.net^$important
 @@|vtvkm5urpx-1.algolianet.com^$important
 @@|vtvkm5urpx-2.algolianet.com^$important
@@ -2160,6 +2170,7 @@
 @@|www.jbhifi.com.au^$important
 @@|www.kde.org^$important
 @@|www.kmart.com.au^$important
+@@|www.kogan.com^$important
 @@|www.kudoboard.com^$important
 @@|www.libreoffice.org^$important
 @@|www.lifewire.com^$important
