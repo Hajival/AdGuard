@@ -435,6 +435,7 @@
 @@|cdn.flowplayer.com^$important
 @@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
+@@|cdn.gpsoft.com.au^$important
 @@|cdn.houseofmega.com^$important
 @@|cdn.imagecurl.com^$important
 @@|cdn.jsdelivr.net.cdn.cloudflare.net^$important
@@ -735,6 +736,7 @@
 @@|download.xbox.com^$important
 @@|download2280.mediafire.com^$important
 @@|downloadmirror.intel.com^$important
+@@|downloads.auslogics.com^$important
 @@|downloads.intercomcdn.com^$important
 @@|downloads.malwarebytes.com^$important
 @@|downloads.mariadb.org^$important
@@ -2190,6 +2192,7 @@
 @@|www.recaptcha.net^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.speedtest.net^$important
+@@|www.stockcheck.aldi.com.au^$important
 @@|www.superantispyware.com^$important
 @@|www.sydneywater.com.au^$important
 @@|www.tampermonkey.net^$important
