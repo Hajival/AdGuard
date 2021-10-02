@@ -183,6 +183,7 @@
 @@|api.betterttv.net^$important
 @@|api.bing.com^$important
 @@|api.bit.ly^$important
+@@|api.braintreegateway.com^$important
 @@|api.dropbox.com^$important
 @@|api.epicgames.dev^$important
 @@|api.evernote.com^$important
@@ -258,6 +259,7 @@
 @@|assets-cdn.github.com^$important
 @@|assets-www.xbox.com^$important
 @@|assets.acq-inc.com^$important
+@@|assets.braintreegateway.com^$important
 @@|assets.freeones.com^$important
 @@|assets.gitlab-static.net^$important
 @@|assets.hulu.com^$important
@@ -348,6 +350,7 @@
 @@|binglee.com.au^$important
 @@|bit.ly^$important
 @@|bitdefender.net^$important
+@@|bitsum.com^$important
 @@|blackberry.com^$important
 @@|blitz.mb-cosmos.com^$important
 @@|blobs.officehome.msocdn.com^$important
@@ -491,6 +494,7 @@
 @@|chbusiness.samsung.com^$important
 @@|check.ddos-guard.net^$important
 @@|checkappexec.microsoft.com^$important
+@@|checkout.paypal.com^$important
 @@|checkout.soundcloud.com^$important
 @@|checkout.stripe.com^$important
 @@|checkout.vimeo.com^$important
@@ -693,6 +697,7 @@
 @@|disq.us^$important
 @@|disqus.com^$important
 @@|disquscdn.com^$important
+@@|distrowatch.com^$important
 @@|dl*.oo-software.com^$important
 @@|dl-web.dropbox.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
@@ -1226,6 +1231,7 @@
 @@|listenanddiscover.help.soundcloud.com^$important
 @@|lists.blocklist.de^$important
 @@|lists.noads.online^$important
+@@|lists.ubuntu.com^$important
 @@|live-ams.twitch.tv^$important
 @@|live-api.cloud.vimeo.com^$important
 @@|live-arn.twitch.tv^$important
@@ -1498,6 +1504,7 @@
 @@|pastebin.com^$important
 @@|payment-website-pci.ol.epicgames.com^$important
 @@|paymentinstruments.mp.microsoft.com^$important
+@@|payments.braintree-api.com^$important
 @@|payments.help.soundcloud.com^$important
 @@|payments.openalerts.com^$important
 @@|payments.soundcloud.com^$important
@@ -2201,6 +2208,7 @@
 @@|www.patreon.com^$important
 @@|www.paypal.com^$important
 @@|www.paypalobjects.com^$important
+@@|www.paypalobjects.comimages^$important
 @@|www.pcgamingwiki.com^$important
 @@|www.php.net^$important
 @@|www.pornhub.com^$important
