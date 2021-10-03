@@ -245,6 +245,7 @@
 @@|appspot-preview.l.google.com^$important
 @@|apresolve.spotify.com^$important
 @@|archive.org^$important
+@@|archlinux.org^$important
 @@|arctic.emsisoft.com^$important
 @@|ark.mwbsys.com^$important
 @@|asia.creativecdn.com^$important
@@ -308,6 +309,7 @@
 @@|az725175.vo.msecnd.net^$important
 @@|az764295.vo.msecnd.net^$important
 @@|azcd.harveynorman.com.au^$important
+@@|azuresearch-ussc.nuget.org^$important
 @@|b.cdnst.net^$important
 @@|b.stats.paypal.com^$important
 @@|b.thumbs.redditmedia.com^$important
@@ -1028,6 +1030,7 @@
 @@|help.netflix.com^$important
 @@|help.soundcloud.com^$important
 @@|help.twitch.tv^$important
+@@|help.ubuntu.com^$important
 @@|help.ui.xboxlive.com^$important
 @@|help.vimeo.com^$important
 @@|help.vivaldi.com^$important
@@ -1100,6 +1103,7 @@
 @@|images.blz-contentstack.com^$important
 @@|images.ctfassets.net^$important
 @@|images.discordapp.net^$important
+@@|images.duckduckgo.com^$important
 @@|images.gog-statics.com^$important
 @@|images.nexusmods.com^$important
 @@|images.nvidia.com^$important
@@ -1377,8 +1381,10 @@
 @@|music.twitch.tv^$important
 @@|music.xbox.com^$important
 @@|music.youtube.com^$important
+@@|musicart.xboxlive.com^$important
 @@|mute.bradconte.com^$important
 @@|mvp.xbox.com^$important
+@@|mwf-service.akamaized.net^$important
 @@|my.gov.au^$important
 @@|my.jdownloader.org^$important
 @@|my.kaspersky.com^$important
@@ -2128,6 +2134,7 @@
 @@|ws75.aptoide.com^$important
 @@|wt.soundcloud.com^$important
 @@|wtfismyip.com^$important
+@@|wus-streaming-video-rt-microsoft-com.akamaized.net^$important
 @@|www*.mediafire.com^$important
 @@|www*.uptobox.com^$important
 @@|www.7-zip.org^$important
@@ -2148,6 +2155,7 @@
 @@|www.cleverbridge.com^$important
 @@|www.cloudflare.com^$important
 @@|www.coles.com.au^$important
+@@|www.dotnetperls.com^$important
 @@|www.dsogaming.com^$important
 @@|www.easyuefi.com^$important
 @@|www.ebgames.com.au^$important
