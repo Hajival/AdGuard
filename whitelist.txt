@@ -804,6 +804,7 @@
 @@|en.wikipedia.com^$important
 @@|en.wikipedia.org^$important
 @@|encrypted-tbn0.gstatic.com^$important
+@@|encrypted-tbn1.gstatic.com^$important
 @@|energyaustralia.com.au^$important
 @@|enforcement.spro.xbox.com^$important
 @@|enforcement.xbox.com^$important
@@ -1336,6 +1337,7 @@
 @@|media.kaspersky.com^$important
 @@|media.kingston.com^$important
 @@|media.playstation.com^$important
+@@|media.prod.bunnings.com.au^$important
 @@|media.soundcloud.com^$important
 @@|media.steampowered.com^$important
 @@|media.tenor.com^$important
@@ -1482,6 +1484,7 @@
 @@|oppen.digital^$important
 @@|oracle.com^$important
 @@|orca.pet^$important
+@@|origin-api-forums.nvidia.com^$important
 @@|orsp.f-secure.com^$important
 @@|ouo.io^$important
 @@|ouo.press^$important
@@ -1525,6 +1528,7 @@
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
+@@|perf.store.on.epicgames.com^$important
 @@|pgl.yoyo.org^$important
 @@|phishing.army^$important
 @@|photo.plus.google.com^$important
@@ -1983,6 +1987,7 @@
 @@|torren.eu^$important
 @@|tr.twitch.tv^$important
 @@|tr.wikipedia.com^$important
+@@|tr2.os.eidos.com^$important
 @@|tracker.bitsearch.to^$important
 @@|tracker.coppersurfer.tk^$important
 @@|tracker.cyberia.is^$important
@@ -2157,6 +2162,7 @@
 @@|www.binglee.com.au^$important
 @@|www.blizzard.com^$important
 @@|www.bromite.org^$important
+@@|www.bunnings.com.au^$important
 @@|www.cfos.de^$important
 @@|www.chemistwarehouse.com.au^$important
 @@|www.chromium.org^$important
@@ -2245,6 +2251,7 @@
 @@|www.ventoy.net^$important
 @@|www.voidtools.com^$important
 @@|www.wheniscriticalrole.com^$important
+@@|www.wikihow.com^$important
 @@|www.woolworths.com.au^$important
 @@|www.xbox.com^$important
 @@|www.xboxab.com^$important
