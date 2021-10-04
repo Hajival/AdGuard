@@ -184,6 +184,7 @@
 @@|api.betterttv.net^$important
 @@|api.bing.com^$important
 @@|api.bit.ly^$important
+@@|api.bitwarden.com^$important
 @@|api.braintreegateway.com^$important
 @@|api.dropbox.com^$important
 @@|api.epicgames.dev^$important
@@ -354,6 +355,7 @@
 @@|bit.ly^$important
 @@|bitdefender.net^$important
 @@|bitsum.com^$important
+@@|bitwarden.com^$important
 @@|blackberry.com^$important
 @@|blitz.mb-cosmos.com^$important
 @@|blobs.officehome.msocdn.com^$important
@@ -576,6 +578,7 @@
 @@|connection.support.playstation.com^$important
 @@|connectivitycheck.android.com^$important
 @@|connectivitycheck.gstatic.com^$important
+@@|consent.dropbox.com^$important
 @@|contacts.google.com^$important
 @@|contactus.netflix.com^$important
 @@|contactus.samsung.com^$important
@@ -761,7 +764,9 @@
 @@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.google.com^$important
 @@|driveroff.net^$important
+@@|dropbox-api.arkoselabs.com^$important
 @@|dropbox.com^$important
+@@|dropboxcaptcha.com^$important
 @@|dropboxstatic.com^$important
 @@|dropboxusercontent.com^$important
 @@|drupal.org^$important
@@ -1028,6 +1033,7 @@
 @@|health.nsw.gov.au^$important
 @@|heartbeat.dm.origin.com^$important
 @@|help-assets.soundcloud.com^$important
+@@|help.bitwarden.com^$important
 @@|help.evernote.com^$important
 @@|help.kaspersky.com^$important
 @@|help.kogan.com^$important
@@ -1077,6 +1083,7 @@
 @@|i.vimeocdn.com^$important
 @@|i.ytimg.com^$important
 @@|i1.ytimg.com^$important
+@@|icons.bitwarden.net^$important
 @@|icons8.com^$important
 @@|id-cdn.twitch.tv^$important
 @@|id-lookup.api.playstation.com^$important
@@ -1087,6 +1094,7 @@
 @@|id.sonyentertainmentnetwork.com^$important
 @@|id.twitch.tv^$important
 @@|id.wikipedia.com^$important
+@@|identity.bitwarden.com^$important
 @@|identity.energyaustralia.com.au^$important
 @@|iecvlist.microsoft.com^$important
 @@|im.twitch.tv^$important
@@ -1405,6 +1413,7 @@
 @@|netflix.com^$important
 @@|newassets.hcaptcha.com^$important
 @@|newegg.com^$important
+@@|news.usenet.farm^$important
 @@|news.xbox.com^$important
 @@|newvirus.kaspersky.com^$important
 @@|nexusmods.com^$important
@@ -1419,6 +1428,7 @@
 @@|normandy.cdn.mozilla.net^$important
 @@|notice.xbox.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
+@@|notifications.bitwarden.com^$important
 @@|notifications.google.com^$important
 @@|notify.xboxlive.com^$important
 @@|ns1.dropbox.com^$important
@@ -2064,6 +2074,8 @@
 @@|use.fontawesome.com^$important
 @@|use.typekit.net^$important
 @@|useast1-public.aws-ubiservices.ubi.com^$important
+@@|usenet.agency^$important
+@@|usenet.farm^$important
 @@|user-content.gitlab-static.net^$important
 @@|user-images.githubusercontent.com^$important
 @@|userpresence.xboxlive.com^$important
@@ -2074,6 +2086,7 @@
 @@|v.firebog.net^$important
 @@|v20.events.data.microsoft.com^$important
 @@|variations.brave.com^$important
+@@|vault.bitwarden.com^$important
 @@|venice.cdntrex.com^$important
 @@|venus.cdntrex.com^$important
 @@|version.cyberduck.io^$important
@@ -2170,6 +2183,7 @@
 @@|www.cloudflare.com^$important
 @@|www.coles.com.au^$important
 @@|www.dotnetperls.com^$important
+@@|www.dropbox.com^$important
 @@|www.dsogaming.com^$important
 @@|www.easyuefi.com^$important
 @@|www.ebgames.com.au^$important
@@ -2227,6 +2241,7 @@
 @@|www.office.com^$important
 @@|www.officeworks.com.au^$important
 @@|www.oo-software.com^$important
+@@|www.outlook.com^$important
 @@|www.patreon.com^$important
 @@|www.paypal.com^$important
 @@|www.paypalobjects.com^$important
@@ -2256,6 +2271,7 @@
 @@|www.xbox.com^$important
 @@|www.xboxab.com^$important
 @@|www.xvideos.com^$important
+@@|www.youtube-nocookie.com^$important
 @@|www.youtube.com^$important
 @@|www2.bing.com^$important
 @@|www4-static.gog-statics.com^$important
