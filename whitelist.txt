@@ -131,6 +131,7 @@
 @@|airtable.com^$important
 @@|ajax.aspnetcdn.com^$important
 @@|ajax.cloudflare.com^$important
+@@|ajay.app^$important
 @@|aka.ms^$important
 @@|akadns.net^$important
 @@|akamai.net^$important
@@ -716,6 +717,7 @@
 @@|dns.cloudflare.com^$important
 @@|dns.msftncsi.com^$important
 @@|dns.quad9.net^$important
+@@|doc-*-docs.googleusercontent.com^$important
 @@|docs.github.com^$important
 @@|docs.google.com^$important
 @@|docs.ipfs.io^$important
@@ -756,6 +758,7 @@
 @@|downloads.sourceforge.net^$important
 @@|downloads.vivaldi.com^$important
 @@|downloads.wisecleaner.com^$important
+@@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.google.com^$important
 @@|driveroff.net^$important
 @@|dropbox.com^$important
@@ -1215,6 +1218,7 @@
 @@|letsencrypt.org^$important
 @@|letsupload.io^$important
 @@|lfghub-anonymous.xboxlive.com^$important
+@@|lh3.google.com^$important
 @@|lh3.googleusercontent.com^$important
 @@|library-service.live.use1a.on.epicgames.com^$important
 @@|librewolf-community.gitlab.io^$important
@@ -1456,6 +1460,7 @@
 @@|office365.com^$important
 @@|officeclient.microsoft.com^$important
 @@|officehomeblobs.blob.core.windows.net^$important
+@@|ogs.google.com^$important
 @@|oneclient.sfx.ms^$important
 @@|onedrive.com^$important
 @@|onedrive.live.com^$important
@@ -2064,6 +2069,8 @@
 @@|v.firebog.net^$important
 @@|v20.events.data.microsoft.com^$important
 @@|variations.brave.com^$important
+@@|venice.cdntrex.com^$important
+@@|venus.cdntrex.com^$important
 @@|version.cyberduck.io^$important
 @@|version.unchecky.com^$important
 @@|versioncheck-bg.addons.mozilla.org^$important
@@ -2117,6 +2124,7 @@
 @@|whatsnew.teamviewer.com^$important
 @@|whstatics.cdntrex.com^$important
 @@|wiki.mozilla.org^$important
+@@|wiki.ubuntu.com^$important
 @@|wikihow.com^$important
 @@|wikimedia.org^$important
 @@|wikipedia.com^$important
@@ -2234,6 +2242,7 @@
 @@|www.twitch.tv^$important
 @@|www.ubuntupit.com^$important
 @@|www.unrealengine.com^$important
+@@|www.ventoy.net^$important
 @@|www.voidtools.com^$important
 @@|www.wheniscriticalrole.com^$important
 @@|www.woolworths.com.au^$important
