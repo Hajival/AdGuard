@@ -371,6 +371,7 @@
 @@|blog.gravatar.com^$important
 @@|blog.hulu.com^$important
 @@|blog.it.playstation.com^$important
+@@|blog.mozilla.org^$important
 @@|blog.netflix.com^$important
 @@|blog.ru.playstation.com^$important
 @@|blog.soundcloud.com^$important
@@ -728,6 +729,7 @@
 @@|docs.microsoft.com^$important
 @@|docs.picotorrent.org^$important
 @@|docs.playstation.com^$important
+@@|docs.python.org^$important
 @@|docs.scrapy.org^$important
 @@|dotnet.microsoft.com^$important
 @@|download*.epicgames.com^$important
@@ -810,6 +812,8 @@
 @@|en.wikipedia.org^$important
 @@|encrypted-tbn0.gstatic.com^$important
 @@|encrypted-tbn1.gstatic.com^$important
+@@|encrypted-tbn2.gstatic.com^$important
+@@|encrypted-tbn3.gstatic.com^$important
 @@|energyaustralia.com.au^$important
 @@|enforcement.spro.xbox.com^$important
 @@|enforcement.xbox.com^$important
@@ -880,6 +884,7 @@
 @@|feeds.acast.com^$important
 @@|feeds.simplecast.com^$important
 @@|ffmpeg.org^$important
+@@|ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com^$important
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
@@ -1020,6 +1025,7 @@
 @@|guru99.com^$important
 @@|guts2.sp.f-secure.com^$important
 @@|gyan.dev^$important
+@@|h20572.www2.hp.com^$important
 @@|halifax.maelstrom.gameservices.xboxlive.com^$important
 @@|halo.part.xbox.com^$important
 @@|halo.xbox.com^$important
@@ -1383,6 +1389,7 @@
 @@|mozilla.com^$important
 @@|mozilla.net^$important
 @@|mozilla.org^$important
+@@|mozilla.wpengine.com^$important
 @@|mpv.io^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
@@ -1763,6 +1770,7 @@
 @@|social.playstation.com^$important
 @@|sockets.betterttv.net^$important
 @@|sofia.cdntrex.com^$important
+@@|software-download.microsoft.com^$important
 @@|songbird.cardinalcommerce.com^$important
 @@|sonicseedbox.com^$important
 @@|sonos.soundcloud.com^$important
@@ -2037,6 +2045,7 @@
 @@|uhf.microsoft.com^$important
 @@|ul.mediafireuserupload.com^$important
 @@|ul.to^$important
+@@|universalstore.streaming.mediaservices.windows.net^$important
 @@|up*.1fichier.com^$important
 @@|up*.debrid.link^$important
 @@|up.raindrop.io^$important
