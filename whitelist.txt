@@ -152,6 +152,7 @@
 @@|altap.cz^$important
 @@|alternativeto.net^$important
 @@|amd.com^$important
+@@|analytics.tripwireinteractive.com^$important
 @@|android.clients.google.com^$important
 @@|answers.microsoft.com^$important
 @@|answersstaticfilecdnv2.azureedge.net^$important
@@ -406,6 +407,7 @@
 @@|c0a80167.mydns.jdownloader.org^$important
 @@|c1.microsoft.com^$important
 @@|c6.paypal.com^$important
+@@|c9.trafficdeposit.com^$important
 @@|cacerts.digicert.com^$important
 @@|cache*-syd1.steamcontent.com^$important
 @@|cache1-mel-edgx.steamcontent.com^$important
@@ -635,6 +637,7 @@
 @@|cyberdrop.me^$important
 @@|cyberthreatcoalition.org^$important
 @@|cz.wikipedia.com^$important
+@@|d*.alternativeto.net^$important
 @@|d*.debrid.link^$important
 @@|d.dropbox.com^$important
 @@|d2nvs31859zcd8.cloudfront.net^$important
@@ -722,6 +725,7 @@
 @@|dns.msftncsi.com^$important
 @@|dns.quad9.net^$important
 @@|doc-*-docs.googleusercontent.com^$important
+@@|docs.chocolatey.org^$important
 @@|docs.github.com^$important
 @@|docs.google.com^$important
 @@|docs.ipfs.io^$important
@@ -754,6 +758,7 @@
 @@|download.wikipedia.com^$important
 @@|download.windowsupdate.com^$important
 @@|download.xbox.com^$important
+@@|download1.gigabyte.com^$important
 @@|download2280.mediafire.com^$important
 @@|downloadmirror.intel.com^$important
 @@|downloads.auslogics.com^$important
@@ -917,6 +922,7 @@
 @@|forums.plex.tv^$important
 @@|forums.roku.com^$important
 @@|forums.sabnzbd.org^$important
+@@|forums.tripwireinteractive.com^$important
 @@|forums.whirlpool.net.au^$important
 @@|forums.xbox.com^$important
 @@|forums.xda-developers.com^$important
@@ -1355,6 +1361,7 @@
 @@|media.soundcloud.com^$important
 @@|media.steampowered.com^$important
 @@|media.tenor.com^$important
+@@|media.tripwirecdn.com^$important
 @@|media.xda-developers.com^$important
 @@|media4.steampowered.com^$important
 @@|mediafire.com^$important
@@ -1656,6 +1663,7 @@
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
 @@|rdl.ink^$important
+@@|reader.usenet.agency^$important
 @@|redcross.org^$important
 @@|redditstatic.com^$important
 @@|redemptionservices.accesscontrol.windows.net^$important
@@ -2026,6 +2034,7 @@
 @@|tracking-protection.cdn.mozilla.net^$important
 @@|tracking.epicgames.com^$important
 @@|transportnsw.info^$important
+@@|tripwireinteractive.com^$important
 @@|ts-crl.ws.symantec.com^$important
 @@|ts-ocsp.ws.symantec.com^$important
 @@|tsfe.trafficshaping.dsp.mp.microsoft.com^$important
@@ -2124,6 +2133,7 @@
 @@|visuals.soundcloud.com^$important
 @@|visualstudio-devdiv-c2s.msedge.net^$important
 @@|visualstudio.com^$important
+@@|visualstudio.microsoft.com^$important
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|voidtools.com^$important
@@ -2226,6 +2236,7 @@
 @@|www.inoreader.com^$important
 @@|www.jbhifi.com.au^$important
 @@|www.kde.org^$important
+@@|www.killingfloor2.com^$important
 @@|www.kmart.com.au^$important
 @@|www.kogan.com^$important
 @@|www.kudoboard.com^$important
@@ -2266,6 +2277,7 @@
 @@|www.speedtest.net^$important
 @@|www.stockcheck.aldi.com.au^$important
 @@|www.superantispyware.com^$important
+@@|www.sxyprn.net^$important
 @@|www.sydneywater.com.au^$important
 @@|www.tampermonkey.net^$important
 @@|www.target.com.au^$important
@@ -2318,6 +2330,7 @@
 @@|youtube-ui.l.google.com^$important
 @@|youtube.com^$important
 @@|youtubei.googleapis.com^$important
+@@|yps.link^$important
 @@|yt-dl.org^$important
 @@|yt3.ggpht.com^$important
 @@|ytimg.l.google.com^$important
