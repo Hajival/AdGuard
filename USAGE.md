@@ -47,7 +47,6 @@ You can modify how often filter lists are updated within AdGuard Home in the
 __Settings__ > __General Settings__ page.
 
 Set "Filters update interval" to 12 hours _(recommended)_ and click the green "Save" button.
-This list updates around twice per day.
 
 # Browsers 🌏
 
