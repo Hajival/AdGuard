@@ -517,6 +517,9 @@
 @@|chromesyncpasswords-pa.googleapis.com^$important
 @@|ci.phncdn.com^$important
 @@|ci.rdtcdn.com^$important
+@@|ci4.googleusercontent.com^$important
+@@|ci5.googleusercontent.com^$important
+@@|client-api.arkoselabs.com^$important
 @@|client-download.steampowered.com^$important
 @@|client-event-reporter.twitch.tv^$important
 @@|client-s.gateway.messenger.live.com^$important
@@ -1214,6 +1217,7 @@
 @@|jp.pool.ntp.org^$important
 @@|jp.wikipedia.com^$important
 @@|jquery.com^$important
+@@|js-agent.newrelic.com^$important
 @@|js.stripe.com^$important
 @@|k2s.cc^$important
 @@|kb.adguard.com^$important
@@ -1508,6 +1512,8 @@
 @@|oppen.digital^$important
 @@|oracle.com^$important
 @@|orca.pet^$important
+@@|orderprocessor-public-service-ecomprod01.ol.epicgames.com^$important
+@@|orderprocessor-public-service-prod.ak.epicgames.com^$important
 @@|origin-api-forums.nvidia.com^$important
 @@|orsp.f-secure.com^$important
 @@|ouo.io^$important
@@ -1756,6 +1762,7 @@
 @@|sfdataservice.microsoft.com^$important
 @@|sfx.thelazy.net^$important
 @@|share.dmca.gripe^$important
+@@|shared-static-prod.epicgames.com^$important
 @@|shavar.prod.mozaws.net^$important
 @@|shavar.services.mozilla.com^$important
 @@|shield.sitelock.com^$important
@@ -1975,8 +1982,10 @@
 @@|talk.google.com^$important
 @@|talk.l.google.com^$important
 @@|talon-service-prod.ak.epicgames.com^$important
+@@|talon-service-prod.ecosec.on.epicgames.com^$important
 @@|talon-service-v4-prod.ak.epicgames.com^$important
 @@|talon-website-prod.ak.epicgames.com^$important
+@@|talon-website-prod.ecosec.on.epicgames.com^$important
 @@|target.com.au^$important
 @@|target.com^$important
 @@|targetednotifications-tm.trafficmanager.net^$important
@@ -2167,6 +2176,7 @@
 @@|wikipedia.com^$important
 @@|wikipedia.org^$important
 @@|win10.ipv6.microsoft.com^$important
+@@|winaero.com^$important
 @@|winget.azureedge.net^$important
 @@|winscp.net^$important
 @@|winstall.app^$important
@@ -2188,6 +2198,7 @@
 @@|www.addictivetips.com^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
+@@|www.anydesk.com^$important
 @@|www.autohotkey.com^$important
 @@|www.base64decode.org^$important
 @@|www.bing.com^$important
@@ -2281,6 +2292,8 @@
 @@|www.sydneywater.com.au^$important
 @@|www.tampermonkey.net^$important
 @@|www.target.com.au^$important
+@@|www.tenforums.com^$important
+@@|www.trueachievements.com^$important
 @@|www.twitch.tv^$important
 @@|www.ubuntupit.com^$important
 @@|www.unrealengine.com^$important
