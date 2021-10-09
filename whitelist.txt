@@ -397,9 +397,11 @@
 @@|c*.patreonusercontent.com^$important
 @@|c*.wp.com^$important
 @@|c.bing.com^$important
+@@|c.degoo.biz^$important
 @@|c.degoo.eu^$important
 @@|c.degoo.info^$important
 @@|c.degoo.io^$important
+@@|c.degoo.media^$important
 @@|c.oracleinfinity.io^$important
 @@|c.paypal.com^$important
 @@|c.ptgncdn.com^$important
@@ -753,6 +755,7 @@
 @@|download.macrium.com^$important
 @@|download.microsoft.com^$important
 @@|download.mozilla.org^$important
+@@|download.msi.com^$important
 @@|download.sourceforge.net^$important
 @@|download.sysinternals.com^$important
 @@|download.teamviewer.com^$important
@@ -984,6 +987,7 @@
 @@|github-cloud.s3.amazonaws.com^$important
 @@|github-production-release-asset-*.s3.amazonaws.com^$important
 @@|github-production-repository-file-5c1aeb.s3.amazonaws.com^$important
+@@|github-production-repository-image-32fea6.s3.amazonaws.com^$important
 @@|github-production-upload-manifest-file-*.s3.amazonaws.com^$important
 @@|github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$important
 @@|github-production-user-asset-6210df.s3.amazonaws.com^$important
@@ -1608,6 +1612,7 @@
 @@|portableapps.com^$important
 @@|posarprodcssservice.accesscontrol.windows.net^$important
 @@|powershellgallery.com^$important
+@@|premium-*.nexus-cdn.com^$important
 @@|premium.soundcloud.com^$important
 @@|press.soundcloud.com^$important
 @@|press.vimeo.com^$important
@@ -2282,6 +2287,7 @@
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
 @@|www.python.org^$important
+@@|www.quad9.net^$important
 @@|www.qwant.com^$important
 @@|www.recaptcha.net^$important
 @@|www.snappy-driver-installer.org^$important
