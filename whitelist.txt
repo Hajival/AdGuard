@@ -266,6 +266,7 @@
 @@|assets.braintreegateway.com^$important
 @@|assets.freeones.com^$important
 @@|assets.gitlab-static.net^$important
+@@|assets.help.twitch.tv^$important
 @@|assets.hulu.com^$important
 @@|assets.kogan.com^$important
 @@|assets.msn.com^$important
@@ -387,6 +388,7 @@
 @@|books.google.com^$important
 @@|box.com^$important
 @@|brand-images.jbhifi.com.au^$important
+@@|brand.twitch.tv^$important
 @@|brave-core-ext.s3.brave.com^$important
 @@|brazil.kaspersky.com^$important
 @@|brazzers.com^$important
@@ -1833,6 +1835,7 @@
 @@|srv01.codefusion.technology^$important
 @@|srv02.codefusion.technology^$important
 @@|srv03.codefusion.technology^$important
+@@|ss64.com^$important
 @@|ssbv2dlsv13.sonicseedbox.com^$important
 @@|ssl.gstatic.com^$important
 @@|ssl.reddit.com^$important
