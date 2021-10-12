@@ -48,6 +48,14 @@ __Settings__ > __General Settings__ page.
 
 Set "Filters update interval" to 12 hours _(recommended)_ and click the green "Save" button.
 
+## Blocked Services
+
+It's useful to set blocked services within AdGuard.
+
+1. Go to "filters" then "blocked services"
+2. Click the "Block all" button and then toggle on the services you actually use or will use
+3. Click the green "Save" button at the bottom of the page
+
 # Browsers 🌏
 
 A mix of Internet Browser Addons/Extensions can improve your security and privacy further.
