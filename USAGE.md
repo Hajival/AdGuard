@@ -53,7 +53,7 @@ Set "Filters update interval" to 12 hours _(recommended)_ and click the green "S
 It's useful to set blocked services within AdGuard Home.
 
 1. Go to "filters" then "blocked services"
-2. Click the "Block all" button and then toggle on the services you actually use or will use
+2. Click the "Block all" button and then toggle off the services you actually use or will use
 3. Click the green "Save" button at the bottom of the page
 
 # Browsers 🌏
