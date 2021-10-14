@@ -1,3 +1,4 @@
+@@|*-cdn.eporner.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
 @@|*-prod.wwzapi.com^$important
 @@|*.*.livefilestore.com^$important
@@ -69,6 +70,7 @@
 @@|0patch.com^$important
 @@|0xxx.ws^$important
 @@|1337x.to^$important
+@@|149366088.v2.pressablecdn.com^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
 @@|1fichier.com^$important
 @@|1storecatalogrevocation.storequality.microsoft.com^$important
@@ -153,6 +155,7 @@
 @@|alternativeto.net^$important
 @@|amd.com^$important
 @@|analytics.tripwireinteractive.com^$important
+@@|andauth.co^$important
 @@|android.clients.google.com^$important
 @@|answers.microsoft.com^$important
 @@|answersstaticfilecdnv2.azureedge.net^$important
@@ -247,6 +250,7 @@
 @@|appsbackup-pa.googleapis.com^$important
 @@|appspot-preview.l.google.com^$important
 @@|apresolve.spotify.com^$important
+@@|aptoide.com^$important
 @@|archive.org^$important
 @@|archlinux.org^$important
 @@|arctic.emsisoft.com^$important
@@ -435,6 +439,7 @@
 @@|cdn*-pic.xvideos-cdn.com^$important
 @@|cdn*-vid.xvideos-cdn.com^$important
 @@|cdn*.appwork.org^$important
+@@|cdn*.aptoide.com^$important
 @@|cdn*.epicgames.com^$important
 @@|cdn*.evernote.com^$important
 @@|cdn-images.xda-developers.com^$important
@@ -484,6 +489,7 @@
 @@|cdn1.xda-developers.com^$important
 @@|cdn2.unrealengine.com^$important
 @@|cdn4.appwork.org^$important
+@@|cdn57.androidauthority.net^$important
 @@|cdn7.appwork.org^$important
 @@|cdn77-vid.xvideos-cdn.com^$important
 @@|cdne.gearsofwar.xbox.com^$important
@@ -726,6 +732,7 @@
 @@|dl.opensubtitles.org^$important
 @@|dl.teamviewer.com^$important
 @@|dlassets-ssl.xboxlive.com^$important
+@@|dlwnextsetting.cloudapp.net^$important
 @@|dmca.twitch.tv^$important
 @@|dmd.metaservices.microsoft.com^$important
 @@|dns.cloudflare.com^$important
@@ -901,6 +908,7 @@
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
+@@|filejoker.net^$important
 @@|files.pythonhosted.org^$important
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
@@ -953,6 +961,7 @@
 @@|friends-public-service-prod06.ol.epicgames.com^$important
 @@|frog.wix.com^$important
 @@|fs*.fastfile.cc^$important
+@@|fs*.filejoker.net^$important
 @@|fs-*.cyberdrop.cc^$important
 @@|fs-*.cyberdrop.to^$important
 @@|fs.microsoft.com^$important
@@ -1252,6 +1261,7 @@
 @@|lh3.google.com^$important
 @@|lh3.googleusercontent.com^$important
 @@|library-service.live.use1a.on.epicgames.com^$important
+@@|libretorrent.en.aptoide.com^$important
 @@|librewolf-community.gitlab.io^$important
 @@|license.hulu.com^$important
 @@|licensing.mp.microsoft.com^$important
@@ -1917,6 +1927,7 @@
 @@|steamcdn-a.akamaihd.net^$important
 @@|steamcloud-sydney.storage.googleapis.com^$important
 @@|steamcloud-ugc.storage.googleapis.com^$important
+@@|steamcloudsyd2.blob.core.windows.net^$important
 @@|steamcommunity-a.akamaihd.net^$important
 @@|steamcommunity.com^$important
 @@|steamdb.info^$important
@@ -1985,6 +1996,7 @@
 @@|sync.standardnotes.org^$important
 @@|t.paypal.com^$important
 @@|ta.wikipedia.com^$important
+@@|taf.teamviewer.com^$important
 @@|tage.playstation.com^$important
 @@|tags.tiqcdn.com^$important
 @@|talk.google.com^$important
@@ -2005,6 +2017,7 @@
 @@|theantisocialengineer.com^$important
 @@|thecheese.co.nz^$important
 @@|thecheese.ddns.net^$important
+@@|thedragonfriends.com^$important
 @@|theme.zdassets.com^$important
 @@|themes.mozilla.org^$important
 @@|thewindowsclub.com^$important
@@ -2028,8 +2041,10 @@
 @@|tokensit.cp.microsoft-tst.com/^$important
 @@|torlock.com^$important
 @@|torren.eu^$important
+@@|tpucdn.com^$important
 @@|tr.twitch.tv^$important
 @@|tr.wikipedia.com^$important
+@@|tr11v6.os.eidos.com^$important
 @@|tr2.os.eidos.com^$important
 @@|tracker.bitsearch.to^$important
 @@|tracker.coppersurfer.tk^$important
@@ -2119,6 +2134,7 @@
 @@|userstyles.world^$important
 @@|usher.ttvnw.net^$important
 @@|v.firebog.net^$important
+@@|v0.wordpress.com^$important
 @@|v20.events.data.microsoft.com^$important
 @@|variations.brave.com^$important
 @@|vault.bitwarden.com^$important
@@ -2206,7 +2222,10 @@
 @@|www.addictivetips.com^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
+@@|www.androidauthority.com^$important
+@@|www.androidcentral.com^$important
 @@|www.anydesk.com^$important
+@@|www.apkmirror.com^$important
 @@|www.autohotkey.com^$important
 @@|www.base64decode.org^$important
 @@|www.bing.com^$important
@@ -2228,6 +2247,7 @@
 @@|www.eff.org^$important
 @@|www.energyaustralia.com.au^$important
 @@|www.epicgames.com^$important
+@@|www.eporner.com^$important
 @@|www.evernote.com^$important
 @@|www.f1techcomputers.com.au^$important
 @@|www.firefox.com^$important
@@ -2279,6 +2299,7 @@
 @@|www.nzb360.com^$important
 @@|www.office.com^$important
 @@|www.officeworks.com.au^$important
+@@|www.omgubuntu.co.uk^$important
 @@|www.oo-software.com^$important
 @@|www.outlook.com^$important
 @@|www.patreon.com^$important
@@ -2289,6 +2310,7 @@
 @@|www.php.net^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
+@@|www.protondb.com^$important
 @@|www.python.org^$important
 @@|www.quad9.net^$important
 @@|www.qwant.com^$important
@@ -2301,6 +2323,7 @@
 @@|www.sydneywater.com.au^$important
 @@|www.tampermonkey.net^$important
 @@|www.target.com.au^$important
+@@|www.techpowerup.com^$important
 @@|www.tenforums.com^$important
 @@|www.trueachievements.com^$important
 @@|www.twitch.tv^$important
@@ -2308,6 +2331,7 @@
 @@|www.unrealengine.com^$important
 @@|www.ventoy.net^$important
 @@|www.voidtools.com^$important
+@@|www.wallpaperengine.io^$important
 @@|www.wheniscriticalrole.com^$important
 @@|www.wikihow.com^$important
 @@|www.woolworths.com.au^$important
