@@ -2,23 +2,23 @@
 
 A strict curated whitelist for AdGuard Home with a focus on maintaining privacy and security.
 
-It also helps avoid ads, trackers and malware.
+It also helps avoid ads, trackers and malware, and blocks tracking and telemetry wherever possible.
 
 It's a great starting point for people who wish to run AdGuard Home in a strict whitelisting manner.
 
 ℹ Please learn AdGuard Home's interface before using this list.
 
-## Aspects 🗒
+## Aspects
 
-I personally do not use:
+I personally __do not__ use:
 
 * Apple products or services
 * Social media sites
 * Majority of online shopping sites
 
-I personally use:
+I personally __do use__:
 
-* Microsoft products
+* Some main Microsoft products
 * Ubuntu
 * Some Australian specific stores
 
