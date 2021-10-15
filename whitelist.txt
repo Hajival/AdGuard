@@ -705,6 +705,8 @@
 @@|device.auth.xboxlive.com^$important
 @@|devices.netflix.com^$important
 @@|dfiles.eu^$important
+@@|dht.aelitis.com^$important
+@@|dht.libtorrent.org^$important
 @@|dht.transmissionbt.com^$important
 @@|di.phncdn.com^$important
 @@|dictionaries.standardnotes.org^$important
@@ -758,6 +760,7 @@
 @@|download-ssl.xbox.com^$important
 @@|download.acronis.com^$important
 @@|download.anydesk.com^$important
+@@|download.db-ip.com^$important
 @@|download.documentfoundation.org^$important
 @@|download.epicgames.com^$important
 @@|download.eset.com^$important
@@ -1678,6 +1681,7 @@
 @@|rapidgator.net^$important
 @@|rapidshare.com^$important
 @@|rarbg.com^$important
+@@|rarbg.me^$important
 @@|rarbg.to^$important
 @@|rarbgmirror.org^$important
 @@|ratingsedge.rnr.microsoft.com^$important
@@ -2063,6 +2067,7 @@
 @@|tracker.trackerfix.com^$important
 @@|tracker2.itzmx.com^$important
 @@|tracker4.itzmx.com^$important
+@@|trackerfix.com^$important
 @@|tracking-protection.cdn.mozilla.net^$important
 @@|tracking.epicgames.com^$important
 @@|transportnsw.info^$important
@@ -2087,6 +2092,7 @@
 @@|ul.mediafireuserupload.com^$important
 @@|ul.to^$important
 @@|universalstore.streaming.mediaservices.windows.net^$important
+@@|unsplash.com^$important
 @@|up*.1fichier.com^$important
 @@|up*.debrid.link^$important
 @@|up.raindrop.io^$important
