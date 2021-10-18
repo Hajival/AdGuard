@@ -91,6 +91,7 @@
 @@|a.tiles.mapbox.com^$important
 @@|a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
 @@|abnzb.com^$important
+@@|about.gitlab.com^$important
 @@|ac.duckduckgo.com^$important
 @@|account-api.protonmail.com^$important
 @@|account-public-service-prod.ak.epicgames.com^$important
@@ -442,6 +443,7 @@
 @@|cdn*.aptoide.com^$important
 @@|cdn*.epicgames.com^$important
 @@|cdn*.evernote.com^$important
+@@|cdn*.iconfinder.com^$important
 @@|cdn-images.xda-developers.com^$important
 @@|cdn-pics.pornhd.com^$important
 @@|cdn-pics.pornhdprime.com^$important
@@ -753,6 +755,7 @@
 @@|docs.scrapy.org^$important
 @@|dotnet.microsoft.com^$important
 @@|download*.epicgames.com^$important
+@@|download*.mediafire.com^$important
 @@|download*.portableapps.com^$important
 @@|download-alt.easyanticheat.net^$important
 @@|download-chromium.appspot.com^$important
@@ -1606,6 +1609,7 @@
 @@|player.soundcloud.com^$important
 @@|player.twitch.tv^$important
 @@|player.vimeo.com^$important
+@@|playnite.link^$important
 @@|playstation.com^$important
 @@|playstation.net^$important
 @@|plex.tv^$important
@@ -1689,6 +1693,8 @@
 @@|raw.github.com^$important
 @@|raw.githubusercontent.com^$important
 @@|rawcdn.githack.com^$important
+@@|rd-icons-icons8.gumlet.com^$important
+@@|rd-icons-icons8.gumlet.io^$important
 @@|rdl.ink^$important
 @@|reader.usenet.agency^$important
 @@|redcross.org^$important
@@ -1797,6 +1803,7 @@
 @@|sirius.mwbsys.com^$important
 @@|skyapi.live.net^$important
 @@|skydrive.live.com^$important
+@@|slow-*.keep2share.cc^$important
 @@|slscr.update.microsoft.com^$important
 @@|smartscreen-prod.microsoft.com^$important
 @@|smartscreen.microsoft.com^$important
@@ -1835,6 +1842,7 @@
 @@|speedtest-syd.launtel.net.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.optusnet.com.au^$important
 @@|speedtest-syd.vocus.net.prod.hosts.ooklaserver.net^$important
+@@|speedtest-vds1.tasmanet.com.au^$important
 @@|speedtest.mirror.digitalpacific.com.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest.net^$important
 @@|sphinx.acast.com^$important
@@ -2125,6 +2133,7 @@
 @@|uploaded.net^$important
 @@|uploads.twitchalerts.com^$important
 @@|uptobox.com^$important
+@@|uptostream.com^$important
 @@|us-img.freeones.com^$important
 @@|us.playstation.com^$important
 @@|use.fontawesome.com^$important
