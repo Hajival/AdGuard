@@ -391,6 +391,7 @@
 @@|board.jdownloader.org^$important
 @@|boardsus.playstation.com^$important
 @@|books.google.com^$important
+@@|boot-*.net.anydesk.com^$important
 @@|box.com^$important
 @@|brand-images.jbhifi.com.au^$important
 @@|brand.twitch.tv^$important
@@ -1735,6 +1736,7 @@
 @@|rtss.guru3d.com^$important
 @@|ru-*.1fichier.com^$important
 @@|rules2.clearurls.xyz^$important
+@@|rumble.com^$important
 @@|s*.pornone.com^$important
 @@|s*.rapidgator.net^$important
 @@|s*.riotpixels.net^$important
@@ -1830,6 +1832,7 @@
 @@|soundcheck.soundcloud.com^$important
 @@|soundcloud.com^$important
 @@|sourceforge.net^$important
+@@|sp.rmbl.ws^$important
 @@|sp.streamlabs.com^$important
 @@|spaces.live.com^$important
 @@|spade.twitch.tv^$important
@@ -2079,6 +2082,7 @@
 @@|tracking-protection.cdn.mozilla.net^$important
 @@|tracking.epicgames.com^$important
 @@|transportnsw.info^$important
+@@|tras.os.eidos.com^$important
 @@|tripwireinteractive.com^$important
 @@|ts-crl.ws.symantec.com^$important
 @@|ts-ocsp.ws.symantec.com^$important
@@ -2162,6 +2166,7 @@
 @@|versioncheck.prod.mozaws.net^$important
 @@|vfr0.gpsoft.com.au^$important
 @@|vfr3.gpsoft.com.au^$important
+@@|vidcoder.net^$important
 @@|video-edge-855073.pdx01.abs.hls.ttvnw.net^$important
 @@|video-edge-ea0fad.pdx01.abs.hls.ttvnw.net^$important
 @@|video-fa.scdn.co^$important
