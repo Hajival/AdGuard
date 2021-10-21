@@ -728,6 +728,7 @@
 @@|distrowatch.com^$important
 @@|dl*.oo-software.com^$important
 @@|dl-web.dropbox.com^$important
+@@|dl.bitsum.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dl.dropbox.com^$important
 @@|dl.dropboxusercontent.com^$important
@@ -773,6 +774,7 @@
 @@|download.mozilla.org^$important
 @@|download.msi.com^$important
 @@|download.sourceforge.net^$important
+@@|download.sqlitebrowser.org^$important
 @@|download.sysinternals.com^$important
 @@|download.teamviewer.com^$important
 @@|download.videolan.org^$important
@@ -1855,6 +1857,8 @@
 @@|spotify.com^$important
 @@|spotlights-feed.github.com^$important
 @@|spreadsheets.google.com^$important
+@@|sqlite.org^$important
+@@|sqlitebrowser.org^$important
 @@|squidblacklist.org^$important
 @@|srv.au.ebayrtm.com^$important
 @@|srv01.codefusion.technology^$important
@@ -2334,9 +2338,11 @@
 @@|www.python.org^$important
 @@|www.quad9.net^$important
 @@|www.qwant.com^$important
+@@|www.rarlab.com^$important
 @@|www.recaptcha.net^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.speedtest.net^$important
+@@|www.sqlite.org^$important
 @@|www.stockcheck.aldi.com.au^$important
 @@|www.superantispyware.com^$important
 @@|www.sxyprn.net^$important
