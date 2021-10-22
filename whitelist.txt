@@ -108,6 +108,7 @@
 @@|accounts-static.cdn.mozilla.net^$important
 @@|accounts.aliexpress.com^$important
 @@|accounts.api.playstation.com^$important
+@@|accounts.ea.com^$important
 @@|accounts.epicgames.com^$important
 @@|accounts.firefox.com^$important
 @@|accounts.google.com.*^$important
@@ -164,6 +165,7 @@
 @@|aomeitech.com^$important
 @@|ap.spotify.com^$important
 @@|apache.org^$important
+@@|api*.origin.com^$important
 @@|api-auth.soundcloud.com^$important
 @@|api-d.dropbox.com^$important
 @@|api-da.wixmp.com^$important
@@ -302,6 +304,7 @@
 @@|auth.freeones.com^$important
 @@|authy.vimeo.com^$important
 @@|autocomplete.kaspersky.com^$important
+@@|autopatch.juno.ea.com^$important
 @@|avatars*.githubusercontent.com^$important
 @@|avatars.githubusercontent.com^$important
 @@|avatars0.githubusercontent.com^$important
@@ -598,6 +601,7 @@
 @@|connectivitycheck.android.com^$important
 @@|connectivitycheck.gstatic.com^$important
 @@|consent.dropbox.com^$important
+@@|consent.trustarc.com^$important
 @@|contacts.google.com^$important
 @@|contactus.netflix.com^$important
 @@|contactus.samsung.com^$important
@@ -606,6 +610,7 @@
 @@|content.hulu.com^$important
 @@|content.invisioncic.com^$important
 @@|content.product.lastpass.com^$important
+@@|contentful-proxy.juno.ea.com^$important
 @@|contile.services.mozilla.com^$important
 @@|continuum.dds.microsoft.com^$important
 @@|controllers.xbox.com^$important
@@ -690,6 +695,7 @@
 @@|deliver.ptgncdn.com^$important
 @@|dell.com^$important
 @@|depositfiles.com^$important
+@@|desktop-config.juno.ea.com^$important
 @@|dev.soundcloud.com^$important
 @@|dev.twitch.tv^$important
 @@|dev.vimeo.com^$important
@@ -809,7 +815,9 @@
 @@|dyncdn2.com^$important
 @@|e.deviantart.net^$important
 @@|e7641.b.akamaiedge.net^$important
+@@|e8690.e12.akamaiedge.net^$important
 @@|ea.com^$important
+@@|eaassets-a.akamaihd.net^$important
 @@|earth.google.com^$important
 @@|easyanticheat.net^$important
 @@|easylist-downloads.adblockplus.org^$important
@@ -918,6 +926,7 @@
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
 @@|filejoker.net^$important
+@@|files*.majorgeeks.com^$important
 @@|files.pythonhosted.org^$important
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
@@ -968,6 +977,7 @@
 @@|friend-list-view.us.np.communication.playstation.net^$important
 @@|friends-public-service-prod.ak.epicgames.com^$important
 @@|friends-public-service-prod06.ol.epicgames.com^$important
+@@|friends.gs.ea.com^$important
 @@|frog.wix.com^$important
 @@|fs*.fastfile.cc^$important
 @@|fs*.filejoker.net^$important
@@ -1048,6 +1058,7 @@
 @@|graphql.epicgames.com^$important
 @@|gravatar.com^$important
 @@|greasyfork.org^$important
+@@|groups.gameservices.ea.com^$important
 @@|groups.google.com^$important
 @@|gs.apple.com^$important
 @@|gstatic.com^$important
@@ -1382,6 +1393,7 @@
 @@|media-cdn.epicgames.com^$important
 @@|media-cdn.twitch.tv^$important
 @@|media.binglee.com.au^$important
+@@|media.contentapi.ea.com^$important
 @@|media.discordapp.net^$important
 @@|media.kaspersky.com^$important
 @@|media.kingston.com^$important
@@ -1539,6 +1551,7 @@
 @@|orca.pet^$important
 @@|orderprocessor-public-service-ecomprod01.ol.epicgames.com^$important
 @@|orderprocessor-public-service-prod.ak.epicgames.com^$important
+@@|origin-a.akamaihd.net^$important
 @@|origin-api-forums.nvidia.com^$important
 @@|orsp.f-secure.com^$important
 @@|ouo.io^$important
@@ -1580,6 +1593,8 @@
 @@|paypal.com^$important
 @@|paypal.de^$important
 @@|paypalobjects.com^$important
+@@|pc-assets.ea.com^$important
+@@|pc.ea.com^$important
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
@@ -1594,11 +1609,14 @@
 @@|picotorrent.org^$important
 @@|pics.ebaystatic.com^$important
 @@|pics.paypal.com^$important
+@@|pin-em.data.ea.com^$important
+@@|pin-river.data.ea.com^$important
 @@|pinata.cloud^$important
 @@|piwik.pcgamingwiki.com^$important
 @@|pixel-static.spotify.com^$important
 @@|pixhost.to^$important
 @@|pkg.tox.chat^$important
+@@|pl.ea.com^$important
 @@|pl.playstation.com^$important
 @@|pl.wikipedia.com^$important
 @@|play-lh.googleusercontent.com^$important
@@ -1692,6 +1710,7 @@
 @@|rarbg.to^$important
 @@|rarbgmirror.org^$important
 @@|ratingsedge.rnr.microsoft.com^$important
+@@|ratt.juno.ea.com^$important
 @@|raw.blocklist.vsnz.net^$important
 @@|raw.github.com^$important
 @@|raw.githubusercontent.com^$important
@@ -1735,6 +1754,7 @@
 @@|rover.ebay.com^$important
 @@|rpg.twitch.tv^$important
 @@|rss.acast.com^$important
+@@|rtm.tnt-ea.com^$important
 @@|rtss.guru3d.com^$important
 @@|ru-*.1fichier.com^$important
 @@|rules2.clearurls.xyz^$important
@@ -1767,6 +1787,7 @@
 @@|search.f-droid.org^$important
 @@|search.vimeo.com^$important
 @@|sebsauvage.net^$important
+@@|secure.download.dm.origin.com^$important
 @@|secure.fanboy.co.nz^$important
 @@|secure.hulu.com^$important
 @@|secure.netflix.com^$important
@@ -1782,10 +1803,12 @@
 @@|self.events.data.microsoft.com^$important
 @@|send.cm^$important
 @@|sentry.lbry.tech^$important
+@@|service-aggregation-layer.juno.ea.com^$important
 @@|service.weather.microsoft.com^$important
 @@|services.addons.mozilla.org^$important
 @@|services.gfe.nvidia.com^$important
 @@|services.prod.mozaws.net^$important
+@@|services.unifiedremote.com^$important
 @@|settings-ssl.xboxlive.com^$important
 @@|settings-win.data.microsoft.com^$important
 @@|settings.data.microsoft.com^$important
@@ -1801,6 +1824,7 @@
 @@|shop.lego.com^$important
 @@|sign-in.soundcloud.com^$important
 @@|signaler-pa.clients*.google.com^$important
+@@|signin.ea.com^$important
 @@|signup.hulu.com^$important
 @@|signup.live.com^$important
 @@|signup.netflix.com^$important
@@ -1851,6 +1875,7 @@
 @@|speedtest.mirror.digitalpacific.com.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest.net^$important
 @@|sphinx.acast.com^$important
+@@|split-evaluator-prod.eax.ea.com^$important
 @@|spo-ring.msedge.net^$important
 @@|sponsor.ajay.app^$important
 @@|spoprod-a.akamaihd.net^$important
@@ -1866,6 +1891,7 @@
 @@|srv03.codefusion.technology^$important
 @@|ss64.com^$important
 @@|ssbv2dlsv13.sonicseedbox.com^$important
+@@|ssl-lvlt.cdn.ea.com^$important
 @@|ssl.gstatic.com^$important
 @@|ssl.reddit.com^$important
 @@|st*.debrid.link^$important
@@ -2266,6 +2292,7 @@
 @@|www.dotnetperls.com^$important
 @@|www.dropbox.com^$important
 @@|www.dsogaming.com^$important
+@@|www.ea.com^$important
 @@|www.easyuefi.com^$important
 @@|www.ebgames.com.au^$important
 @@|www.eff.org^$important
@@ -2354,6 +2381,7 @@
 @@|www.trueachievements.com^$important
 @@|www.twitch.tv^$important
 @@|www.ubuntupit.com^$important
+@@|www.unifiedremote.com^$important
 @@|www.unrealengine.com^$important
 @@|www.ventoy.net^$important
 @@|www.voidtools.com^$important
