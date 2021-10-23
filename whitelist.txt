@@ -193,6 +193,7 @@
 @@|api.bit.ly^$important
 @@|api.bitwarden.com^$important
 @@|api.braintreegateway.com^$important
+@@|api.doorman.fsapi.com^$important
 @@|api.dropbox.com^$important
 @@|api.epicgames.dev^$important
 @@|api.evernote.com^$important
@@ -997,10 +998,12 @@
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gamercard.xbox.com^$important
 @@|gateway.discord.gg^$important
+@@|gateway.ea.com^$important
 @@|gear.playstation.com^$important
 @@|gear.sca.samsung.com^$important
 @@|gear.xbox.com^$important
 @@|gearsofwar.xbox.com^$important
+@@|gen4.reports.tools.gos.ea.com^$important
 @@|get.net.playstation.net^$important
 @@|get.soundcloud.com^$important
 @@|get.xda-developers.com^$important
@@ -1052,6 +1055,7 @@
 @@|googlehosted.l.googleusercontent.com^$important
 @@|googleusercontent.com^$important
 @@|googlevideo.com^$important
+@@|gosca.ea.com^$important
 @@|gossip.easyanticheat.net^$important
 @@|gql.twitch.tv^$important
 @@|graph.microsoft.com^$important
@@ -1061,6 +1065,7 @@
 @@|groups.gameservices.ea.com^$important
 @@|groups.google.com^$important
 @@|gs.apple.com^$important
+@@|gsprodblapp-*.ea.com^$important
 @@|gstatic.com^$important
 @@|guardianproject.gitlab.io^$important
 @@|guardianproject.info^$important
@@ -1389,6 +1394,8 @@
 @@|mcmilk.de^$important
 @@|me-en.kaspersky.com^$important
 @@|me.kaspersky.com^$important
+@@|me4prodfeapp0002.ea.com^$important
+@@|mea-public.biowareonline.net^$important
 @@|media*.giphy.com^$important
 @@|media-cdn.epicgames.com^$important
 @@|media-cdn.twitch.tv^$important
@@ -1553,6 +1560,7 @@
 @@|orderprocessor-public-service-prod.ak.epicgames.com^$important
 @@|origin-a.akamaihd.net^$important
 @@|origin-api-forums.nvidia.com^$important
+@@|orsp-c1-ane1.aws.orsp.f-secure.com^$important
 @@|orsp.f-secure.com^$important
 @@|ouo.io^$important
 @@|ouo.press^$important
@@ -1684,6 +1692,7 @@
 @@|protonmail.ch^$important
 @@|protonmail.com^$important
 @@|protonmail.uservoice.com^$important
+@@|proxy.novafusion.ea.com^$important
 @@|proxy.plex.tv^$important
 @@|pt.potwm.com^$important
 @@|pti.store.microsoft.com^$important
@@ -1696,6 +1705,7 @@
 @@|q.ebaystatic.com^$important
 @@|qcz.gallery.vsassets.io^$important
 @@|qos*.ol.epicgames.com^$important
+@@|qos-prod-bio-dub-common-common.gos.ea.com^$important
 @@|qos1.ol.epicgames.com^$important
 @@|quad9.net^$important
 @@|query.prod.cms.rt.microsoft.com^$important
@@ -1768,6 +1778,7 @@
 @@|s.ytimg.com^$important
 @@|s2.youtube.com^$important
 @@|s295.pornone.com^$important
+@@|s3-eu-west-1.amazonaws.com^$important
 @@|s3.wasabisys.com^$important
 @@|s334284386.t.eloqua.com^$important
 @@|s82i.app.link^$important
@@ -1882,6 +1893,7 @@
 @@|spotify.com^$important
 @@|spotlights-feed.github.com^$important
 @@|spreadsheets.google.com^$important
+@@|spring14.gosredirector.ea.com^$important
 @@|sqlite.org^$important
 @@|sqlitebrowser.org^$important
 @@|squidblacklist.org^$important
@@ -2254,6 +2266,7 @@
 @@|winget.azureedge.net^$important
 @@|winscp.net^$important
 @@|winstall.app^$important
+@@|winter15.gosredirector.ea.com^$important
 @@|wire.com^$important
 @@|woolworths.com.au^$important
 @@|woolworthsgiftcardstore.com.au^$important
