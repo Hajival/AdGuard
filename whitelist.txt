@@ -1,3 +1,4 @@
+@@|*-*-*-*.brokendnssec.net^$important
 @@|*-cdn.eporner.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
 @@|*-prod.wwzapi.com^$important
@@ -284,6 +285,7 @@
 @@|assets.ubuntu.com^$important
 @@|assets.vimeo.com^$important
 @@|assets.windscribe.com^$important
+@@|assets.www.cloudflare.com^$important
 @@|assets.xbox.com^$important
 @@|ato.gov.au^$important
 @@|attestation.xboxlive.com^$important
@@ -404,6 +406,7 @@
 @@|brazzers.com^$important
 @@|bromite.org^$important
 @@|browser.pipe.aria.microsoft.com^$important
+@@|bugs.python.org^$important
 @@|bugzilla.mozilla.org^$important
 @@|bunnings.com.au^$important
 @@|c*.patreonusercontent.com^$important
@@ -603,6 +606,7 @@
 @@|connectivitycheck.gstatic.com^$important
 @@|consent.dropbox.com^$important
 @@|consent.trustarc.com^$important
+@@|console.python.org^$important
 @@|contacts.google.com^$important
 @@|contactus.netflix.com^$important
 @@|contactus.samsung.com^$important
@@ -2320,6 +2324,7 @@
 @@|www.getpaint.net^$important
 @@|www.ghacks.net^$important
 @@|www.gigabyte.com^$important
+@@|www.github.com^$important
 @@|www.github.developerdan.com^$important
 @@|www.google.com.au^$important
 @@|www.google.com^$important
@@ -2357,6 +2362,7 @@
 @@|www.msn.com^$important
 @@|www.newshosting.com^$important
 @@|www.nexusmods.com^$important
+@@|www.nirsoft.net^$important
 @@|www.nitroflare.com^$important
 @@|www.nsw.gov.au^$important
 @@|www.nvidia.com^$important
@@ -2398,6 +2404,7 @@
 @@|www.unrealengine.com^$important
 @@|www.ventoy.net^$important
 @@|www.voidtools.com^$important
+@@|www.wagnardsoft.com^$important
 @@|www.wallpaperengine.io^$important
 @@|www.wheniscriticalrole.com^$important
 @@|www.wikihow.com^$important

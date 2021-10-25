@@ -1,4 +1,4 @@
-# AdGuard-Home-Whitelist
+# AdGuard-Home-Whitelist ✅
 
 A strict curated whitelist for AdGuard Home with a focus on maintaining privacy and security.
 
@@ -8,21 +8,25 @@ It's a great starting point for people who wish to run AdGuard Home in a strict 
 
 ℹ Please learn AdGuard Home's interface before using this list.
 
-## Aspects
+## Aspects ⏺
 
-I personally __do not__ use:
+### What's Whitelisted ✔
+
+* Some of the main Microsoft products
+* Ubuntu
+* Some Australian specific stores
+* Development languages like Python, C# etc
+* PC Game Launchers like Steam, Epic Games and EA Desktop (EA App)
+* Malwarebytes, SuperAntispyware, ESET Online Scanner, HitManPro etc
+* and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
+
+### What's __not__ whitelisted 🛑
 
 * Apple products or services
 * Social media sites
 * Majority of online shopping sites
 
-I personally __do use__:
-
-* Some main Microsoft products
-* Ubuntu
-* Some Australian specific stores
-
-Take the above into account and that I live in Australia. The whitelist reflects those facts.
+🖊 Take the above into account and that I live in Australia. The whitelist reflects those facts.
 
 👀 Check the whitelist first to see if it suits your needs.
 
