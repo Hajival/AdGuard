@@ -245,6 +245,7 @@
 @@|app.plex.tv^$important
 @@|app.plus.google.com^$important
 @@|app.raindrop.io^$important
+@@|app.standardnotes.com^$important
 @@|app.twitch.tv^$important
 @@|app.vsaex.visualstudio.com^$important
 @@|appboot.netflix.com^$important
@@ -831,6 +832,7 @@
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
 @@|edge.microsoft.com^$important
+@@|edgeassetdelivery.blob.core.windows.net^$important
 @@|edgechunked.cyberdrop.me^$important
 @@|edgestoreweb.azureedge.net^$important
 @@|edgetips.azureedge.net^$important
@@ -1916,6 +1918,8 @@
 @@|stackexchange.com^$important
 @@|stackoverflow.com^$important
 @@|staging.plex.tv^$important
+@@|standard-notes.s3.amazonaws.com^$important
+@@|standardnotes.com^$important
 @@|standardnotes.org^$important
 @@|static*.behindthevoiceactors.com^$important
 @@|static*.brave.com^$important
