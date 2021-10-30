@@ -481,6 +481,7 @@
 @@|cdn.mountainduck.io^$important
 @@|cdn.mwbsys.com^$important
 @@|cdn.onenote.net^$important
+@@|cdn.podia.com^$important
 @@|cdn.polyfill.io^$important
 @@|cdn.rawgit.com^$important
 @@|cdn.search.brave.com^$important
@@ -532,6 +533,7 @@
 @@|choice.microsoft.com^$important
 @@|choosealicense.com^$important
 @@|chris.dziemborowicz.com^$important
+@@|christitus.com^$important
 @@|chrome.cloudflare-dns.com^$important
 @@|chrome.google.com^$important
 @@|chromesyncentities-pa.googleapis.com^$important
@@ -1022,6 +1024,7 @@
 @@|gift.card.auspost^$important
 @@|gist.github.com^$important
 @@|gist.githubusercontent.com^$important
+@@|git.io^$important
 @@|git.synz.io^$important
 @@|github-cloud.s3.amazonaws.com^$important
 @@|github-production-release-asset-*.s3.amazonaws.com^$important
@@ -1056,6 +1059,7 @@
 @@|goo.gl^$important
 @@|google.cdn.steampipe.steamcontent.com^$important
 @@|google.com.au^$important
+@@|google.com^$important
 @@|googleapis.com^$important
 @@|googleapis.l.google.com^$important
 @@|googlehosted.l.googleusercontent.com^$important
@@ -1301,6 +1305,7 @@
 @@|lightswitch-public-service-prod06.ol.epicgames.com^$important
 @@|lily.cdntrex.com^$important
 @@|limetorrents.info^$important
+@@|lineup-images.scdn.co^$important
 @@|link.twitch.tv^$important
 @@|links.announcements.soundcloud.com^$important
 @@|links.confirmation.soundcloud.com^$important
@@ -1424,6 +1429,7 @@
 @@|mega.nz^$important
 @@|mel1.speedtest.telstra.net^$important
 @@|mem.gfx.ms^$important
+@@|member.hitnews.com^$important
 @@|menu-static.gog-statics.com^$important
 @@|merchantpool1.epicgames.com^$important
 @@|messages.google.com^$important
@@ -1550,6 +1556,7 @@
 @@|onsite2.researchintel.com^$important
 @@|oo-software.com^$important
 @@|open-vsx.org^$important
+@@|open.scdn.co^$important
 @@|open.spotify.com^$important
 @@|open.stealth.si^$important
 @@|openphish.com^$important
@@ -2306,6 +2313,7 @@
 @@|www.bunnings.com.au^$important
 @@|www.cfos.de^$important
 @@|www.chemistwarehouse.com.au^$important
+@@|www.christitus.com^$important
 @@|www.chromium.org^$important
 @@|www.cleverbridge.com^$important
 @@|www.cloudflare.com^$important
