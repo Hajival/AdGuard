@@ -522,6 +522,7 @@
 @@|chatenabled.mail.google.com^$important
 @@|chatlounge-preview.xbox.com^$important
 @@|chbusiness.samsung.com^$important
+@@|check.aec.gov.au^$important
 @@|check.ddos-guard.net^$important
 @@|checkappexec.microsoft.com^$important
 @@|checkout.paypal.com^$important
@@ -2298,6 +2299,7 @@
 @@|www.acq-inc.com^$important
 @@|www.adaware.com^$important
 @@|www.addictivetips.com^$important
+@@|www.aec.gov.au^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
 @@|www.androidauthority.com^$important
@@ -2325,6 +2327,7 @@
 @@|www.easyuefi.com^$important
 @@|www.ebgames.com.au^$important
 @@|www.eff.org^$important
+@@|www.elections.nsw.gov.au^$important
 @@|www.energyaustralia.com.au^$important
 @@|www.epicgames.com^$important
 @@|www.eporner.com^$important
