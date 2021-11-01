@@ -837,6 +837,7 @@
 @@|edge.microsoft.com^$important
 @@|edgeassetdelivery.blob.core.windows.net^$important
 @@|edgechunked.cyberdrop.me^$important
+@@|edgefrecdn.azureedge.net^$important
 @@|edgestoreweb.azureedge.net^$important
 @@|edgetips.azureedge.net^$important
 @@|editor.swagger.io^$important
@@ -1459,6 +1460,7 @@
 @@|mozilla.org^$important
 @@|mozilla.wpengine.com^$important
 @@|mpv.io^$important
+@@|mpv.srsfckn.biz^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
 @@|msftconnecttest.com^$important
@@ -2107,10 +2109,12 @@
 @@|tiles.services.mozilla.com^$important
 @@|tiles.xbox.com^$important
 @@|time.android.com^$important
+@@|time.is^$important
 @@|time.windows.com^$important
 @@|title.auth.xboxlive.com^$important
 @@|title.mgt.xboxlive.com^$important
 @@|token.cp.microsoft.com/^$important
+@@|tokens-auth.touchtype-fluency.com^$important
 @@|tokensit.cp.microsoft-tst.com/^$important
 @@|torlock.com^$important
 @@|torren.eu^$important
@@ -2404,6 +2408,7 @@
 @@|www.snappy-driver-installer.org^$important
 @@|www.speedtest.net^$important
 @@|www.sqlite.org^$important
+@@|www.steampowered.com^$important
 @@|www.stockcheck.aldi.com.au^$important
 @@|www.superantispyware.com^$important
 @@|www.sxyprn.net^$important
