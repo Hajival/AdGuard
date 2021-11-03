@@ -1985,6 +1985,7 @@
 @@|statics-xbc-eas.xbox.com^$important
 @@|statics.cdntrex.com^$important
 @@|staticstats.nexusmods.com^$important
+@@|staticview.msn.com^$important
 @@|stats-prod.svc.gearsofwar.net^$important
 @@|status.brave.com^$important
 @@|status.discord.com^$important
@@ -2008,6 +2009,7 @@
 @@|steamdb.info^$important
 @@|steampipe.akamaized.net^$important
 @@|steamstore-a.akamaihd.net^$important
+@@|steamugcquincy.blob.core.windows.net^$important
 @@|steamusercontent-a.akamaihd.net^$important
 @@|steamuserimages-a.akamaihd.net^$important
 @@|stitcher.acast.com^$important
@@ -2163,6 +2165,7 @@
 @@|ufs*.steamcontent.com^$important
 @@|ugc.api.playstation.com^$important
 @@|uhf.microsoft.com^$important
+@@|uk.download.nvidia.com^$important
 @@|ul.mediafireuserupload.com^$important
 @@|ul.to^$important
 @@|universalstore.streaming.mediaservices.windows.net^$important
@@ -2384,6 +2387,7 @@
 @@|www.nirsoft.net^$important
 @@|www.nitroflare.com^$important
 @@|www.nsw.gov.au^$important
+@@|www.nvidia.co.uk^$important
 @@|www.nvidia.com^$important
 @@|www.nzb360.com^$important
 @@|www.office.com^$important
@@ -2399,6 +2403,7 @@
 @@|www.php.net^$important
 @@|www.pornhub.com^$important
 @@|www.porntrex.com^$important
+@@|www.powershellgallery.com^$important
 @@|www.protondb.com^$important
 @@|www.python.org^$important
 @@|www.quad9.net^$important
