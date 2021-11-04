@@ -1525,6 +1525,7 @@
 @@|o.xbox.com^$important
 @@|oapi.opalsystems.com.au^$important
 @@|oauth.live.com^$important
+@@|objects.githubusercontent.com^$important
 @@|obsproject.com^$important
 @@|oc.speedtest.i3d.net.prod.hosts.ooklaserver.net^$important
 @@|oca-api.netflix.com^$important
@@ -1570,6 +1571,7 @@
 @@|openuserjs.org^$important
 @@|openvsxorg.blob.core.windows.net^$important
 @@|oppen.digital^$important
+@@|opva.elections.nsw.gov.au^$important
 @@|oracle.com^$important
 @@|orca.pet^$important
 @@|orderprocessor-public-service-ecomprod01.ol.epicgames.com^$important
@@ -2405,6 +2407,7 @@
 @@|www.porntrex.com^$important
 @@|www.powershellgallery.com^$important
 @@|www.protondb.com^$important
+@@|www.proxyscan.io^$important
 @@|www.python.org^$important
 @@|www.quad9.net^$important
 @@|www.qwant.com^$important
