@@ -8,7 +8,7 @@ It's a great starting point for people who wish to run AdGuard Home in a strict 
 
 ℹ Please learn AdGuard Home's interface before using this list.
 
-_AdGuard-Home-Whitelist © 2021 - hl2guide - All Rights Reserved_
+_AdGuard-Home-Whitelist © 2021 - hl2guide_
 
 ## Aspects ⏺
 
