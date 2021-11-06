@@ -163,6 +163,7 @@
 @@|answers.microsoft.com^$important
 @@|answersstaticfilecdnv2.azureedge.net^$important
 @@|anydesk.com^$important
+@@|aoe-api.reliclink.com^$important
 @@|aomeitech.com^$important
 @@|ap.spotify.com^$important
 @@|apache.org^$important
@@ -189,6 +190,7 @@
 @@|api-v2.soundcloud.com^$important
 @@|api-widget.soundcloud.com^$important
 @@|api.adguard.com^$important
+@@|api.ageofempires.com^$important
 @@|api.betterttv.net^$important
 @@|api.bing.com^$important
 @@|api.bit.ly^$important
@@ -844,6 +846,7 @@
 @@|eds.xboxlive.com^$important
 @@|education.github.com^$important
 @@|eff.org^$important
+@@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
 @@|ekr.zdassets.com^$important
 @@|elb-lon-gcp.nimbus.bitdefender.net^$important
 @@|elb-ore-gcp.nimbus.bitdefender.net^$important
@@ -871,6 +874,7 @@
 @@|entitlement-public-service-prod08.ol.epicgames.com^$important
 @@|eo.wikipedia.com^$important
 @@|eos-cloudsaves-live.s3.amazonaws.com^$important
+@@|epic-social-game-overlay-prod.ol.epicgames.com^$important
 @@|epic-social-social-modules-prod.ol.epicgames.com^$important
 @@|epicgames-download1.akamaized.net^$important
 @@|epicgames.com^$important
@@ -933,11 +937,13 @@
 @@|feeds.simplecast.com^$important
 @@|ffmpeg.org^$important
 @@|ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com^$important
+@@|ffprofile.com^$important
 @@|fi.m.wikipedia.com^$important
 @@|fi.wikipedia.com^$important
 @@|file-metadata.nexusmods.com^$important
 @@|filejoker.net^$important
 @@|files*.majorgeeks.com^$important
+@@|files.community^$important
 @@|files.pythonhosted.org^$important
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
@@ -1270,6 +1276,7 @@
 @@|jp.wikipedia.com^$important
 @@|jquery.com^$important
 @@|js-agent.newrelic.com^$important
+@@|js.hcaptcha.com^$important
 @@|js.stripe.com^$important
 @@|k2s.cc^$important
 @@|kb.adguard.com^$important
@@ -1295,6 +1302,7 @@
 @@|letsencrypt.org^$important
 @@|letsupload.io^$important
 @@|lfghub-anonymous.xboxlive.com^$important
+@@|lh*.googleusercontent.com^$important
 @@|lh3.google.com^$important
 @@|lh3.googleusercontent.com^$important
 @@|library-service.live.use1a.on.epicgames.com^$important
@@ -1435,6 +1443,7 @@
 @@|menu-static.gog-statics.com^$important
 @@|merchantpool1.epicgames.com^$important
 @@|messages.google.com^$important
+@@|metrics.ol.epicgames.com^$important
 @@|microsoftedge.microsoft.com^$important
 @@|microsoftedgetips.microsoft.com^$important
 @@|microsoftedgewelcome.microsoft.com^$important
@@ -2097,6 +2106,7 @@
 @@|thecheese.co.nz^$important
 @@|thecheese.ddns.net^$important
 @@|thedragonfriends.com^$important
+@@|theme-park.dev^$important
 @@|theme.zdassets.com^$important
 @@|themes.mozilla.org^$important
 @@|thewindowsclub.com^$important
@@ -2262,6 +2272,8 @@
 @@|vscjava.gallery.vsassets.io^$important
 @@|vscjava.gallerycdn.vsassets.io^$important
 @@|vscode-sync.trafficmanager.net^$important
+@@|vscode.dev^$important
+@@|vscodeweb.azureedge.net^$important
 @@|vscodium.now.sh^$important
 @@|vscodium.vercel.app^$important
 @@|vsmarketplacebadge.apphb.com^$important
