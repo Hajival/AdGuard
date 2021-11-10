@@ -380,6 +380,7 @@
 @@|blocklist.de^$important
 @@|blog.bit.ly^$important
 @@|blog.br.playstation.com^$important
+@@|blog.codesector.com^$important
 @@|blog.de.playstation.com^$important
 @@|blog.disqus.com^$important
 @@|blog.dopus.com^$important
@@ -401,6 +402,7 @@
 @@|boardsus.playstation.com^$important
 @@|books.google.com^$important
 @@|boot-*.net.anydesk.com^$important
+@@|boston.maelstrom.gameservices.xboxlive.com^$important
 @@|box.com^$important
 @@|brand-images.jbhifi.com.au^$important
 @@|brand.twitch.tv^$important
@@ -575,6 +577,7 @@
 @@|code.visualstudio.com^$important
 @@|codeload.github.com^$important
 @@|codemasters.com^$important
+@@|codesector.*.backblazeb2.com^$important
 @@|codesector.com^$important
 @@|coles.com.au^$important
 @@|collections.md.mp.microsoft.com^$important
@@ -1444,6 +1447,7 @@
 @@|merchantpool1.epicgames.com^$important
 @@|messages.google.com^$important
 @@|metrics.ol.epicgames.com^$important
+@@|microsoft.com^$important
 @@|microsoftedge.microsoft.com^$important
 @@|microsoftedgetips.microsoft.com^$important
 @@|microsoftedgewelcome.microsoft.com^$important
@@ -1563,6 +1567,7 @@
 @@|oneclient.sfx.ms^$important
 @@|onedrive.com^$important
 @@|onedrive.live.com^$important
+@@|onegetcdn.azureedge.net^$important
 @@|onegov.nsw.gov.au^$important
 @@|oneocsp.microsoft.com^$important
 @@|onlinescanner.eset.com^$important
@@ -2340,6 +2345,7 @@
 @@|www.chromium.org^$important
 @@|www.cleverbridge.com^$important
 @@|www.cloudflare.com^$important
+@@|www.codesector.com^$important
 @@|www.coles.com.au^$important
 @@|www.dotnetperls.com^$important
 @@|www.dropbox.com^$important
