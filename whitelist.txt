@@ -203,6 +203,7 @@
 @@|api.feedburner.com^$important
 @@|api.giphy.com^$important
 @@|api.github.com^$important
+@@|api.gog.com^$important
 @@|api.jdownloader.org^$important
 @@|api.jquery.com^$important
 @@|api.k2s.cc^$important
@@ -1444,6 +1445,7 @@
 @@|mem.gfx.ms^$important
 @@|member.hitnews.com^$important
 @@|menu-static.gog-statics.com^$important
+@@|menu.gog.com^$important
 @@|merchantpool1.epicgames.com^$important
 @@|messages.google.com^$important
 @@|metrics.ol.epicgames.com^$important
@@ -2368,6 +2370,7 @@
 @@|www.gigabyte.com^$important
 @@|www.github.com^$important
 @@|www.github.developerdan.com^$important
+@@|www.gog.com^$important
 @@|www.google.com.au^$important
 @@|www.google.com^$important
 @@|www.gpsoft.com.au^$important
