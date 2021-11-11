@@ -368,6 +368,7 @@
 @@|bing.pl^$important
 @@|bing.ru^$important
 @@|bing.se^$important
+@@|bingedu.azureedge.net^$important
 @@|binglee.com.au^$important
 @@|bit.ly^$important
 @@|bitdefender.net^$important
@@ -1474,6 +1475,7 @@
 @@|mozilla.net^$important
 @@|mozilla.org^$important
 @@|mozilla.wpengine.com^$important
+@@|mpc-hc.org^$important
 @@|mpv.io^$important
 @@|mpv.srsfckn.biz^$important
 @@|msedge.api.cdp.microsoft.com^$important
@@ -1728,6 +1730,7 @@
 @@|protonmail.uservoice.com^$important
 @@|proxy.novafusion.ea.com^$important
 @@|proxy.plex.tv^$important
+@@|psg-prod-eastus.azureedge.net^$important
 @@|pt.potwm.com^$important
 @@|pti.store.microsoft.com^$important
 @@|pubsub-edge.twitch.tv^$important
@@ -2364,6 +2367,7 @@
 @@|www.f1techcomputers.com.au^$important
 @@|www.firefox.com^$important
 @@|www.fosshub.com^$important
+@@|www.fossmint.com^$important
 @@|www.freeones.com^$important
 @@|www.getpaint.net^$important
 @@|www.ghacks.net^$important
