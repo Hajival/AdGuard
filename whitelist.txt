@@ -312,7 +312,9 @@
 @@|authy.vimeo.com^$important
 @@|autocomplete.kaspersky.com^$important
 @@|autopatch.juno.ea.com^$important
+@@|avatarfiles.alphacoders.com^$important
 @@|avatars*.githubusercontent.com^$important
+@@|avatars.alphacoders.com^$important
 @@|avatars.githubusercontent.com^$important
 @@|avatars0.githubusercontent.com^$important
 @@|avatars1.githubusercontent.com^$important
@@ -1112,6 +1114,7 @@
 @@|heartbeat.dm.origin.com^$important
 @@|help-assets.soundcloud.com^$important
 @@|help.bitwarden.com^$important
+@@|help.codesector.com^$important
 @@|help.evernote.com^$important
 @@|help.kaspersky.com^$important
 @@|help.kogan.com^$important
@@ -1967,6 +1970,7 @@
 @@|static-lvlt.xhcdn.com^$important
 @@|static-media-prod-cdn.itsre-sumo.mozilla.net^$important
 @@|static.a.upc.ubisoft.com^$important
+@@|static.alphacoders.com^$important
 @@|static.binglee.com.au^$important
 @@|static.blog.playstation.com^$important
 @@|static.cdprojektred.com^$important
