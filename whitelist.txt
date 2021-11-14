@@ -309,6 +309,7 @@
 @@|auspost.com.au^$important
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.freeones.com^$important
+@@|auth.gog.com^$important
 @@|authy.vimeo.com^$important
 @@|autocomplete.kaspersky.com^$important
 @@|autopatch.juno.ea.com^$important
@@ -1198,6 +1199,7 @@
 @@|images.discordapp.net^$important
 @@|images.duckduckgo.com^$important
 @@|images.gog-statics.com^$important
+@@|images.gog.com^$important
 @@|images.nexusmods.com^$important
 @@|images.nvidia.com^$important
 @@|images.officeworks.com.au^$important
@@ -1266,6 +1268,7 @@
 @@|is5-ssl.mzstatic.com^$important
 @@|it.playstation.com^$important
 @@|it.wikipedia.com^$important
+@@|items.gog.com^$important
 @@|itsfoss.com^$important
 @@|itunes.apple.com^$important
 @@|itunesconnect.apple.com^$important
@@ -1358,6 +1361,7 @@
 @@|livetileedge.dsx.mp.microsoft.com^$important
 @@|local.adguard.com^$important
 @@|login.aliexpress.com^$important
+@@|login.gog.com^$important
 @@|login.hulu.com^$important
 @@|login.live.com^$important
 @@|login.microsoftonline.com^$important
@@ -1525,7 +1529,9 @@
 @@|normandy.cdn.mozilla.net^$important
 @@|notice.xbox.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
+@@|notifications-pusher.gog.com^$important
 @@|notifications.bitwarden.com^$important
+@@|notifications.gog.com^$important
 @@|notifications.google.com^$important
 @@|notify.xboxlive.com^$important
 @@|ns1.dropbox.com^$important
@@ -1792,6 +1798,7 @@
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
 @@|retracker.local^$important
+@@|reviews.gog.com^$important
 @@|reviews.kaspersky.com^$important
 @@|rewards.xbox.com^$important
 @@|rg3.github.io^$important
