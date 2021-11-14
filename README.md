@@ -14,15 +14,16 @@ _AdGuard-Home-Whitelist © 2021 - hl2guide_
 
 ### What's Whitelisted ✔
 
-* Some of the main Microsoft products
-* Ubuntu
-* Some Australian specific stores
-* Development languages like Python, C# etc
-* PC Game Launchers like Steam, Epic Games and EA Desktop (EA App)
-* Malwarebytes, SuperAntispyware, ESET Online Scanner, HitManPro etc
+* Microsoft products (Windows 10)
+* Ubuntu (OS)
+* Development languages (Python, C# etc)
+* PC Game Launchers (Steam, Epic Games and EA Desktop)
+* Second-Opinion Malware Scanners (Malwarebytes, SuperAntispyware, ESET Online Scanner, HitManPro etc)
+* Australian specific stores (JB Hifi, OfficeWorks etc)
+* Australian government websites (election, tax office etc)
 * and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
 
-### What's __not__ whitelisted 🛑
+### What's __Not__ Whitelisted 🛑
 
 * Apple products or services
 * Social media sites
