@@ -481,6 +481,7 @@
 @@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
 @@|cdn.gpsoft.com.au^$important
+@@|cdn.guru99.com^$important
 @@|cdn.houseofmega.com^$important
 @@|cdn.imagecurl.com^$important
 @@|cdn.jsdelivr.net.cdn.cloudflare.net^$important
@@ -858,6 +859,7 @@
 @@|ekr.zdassets.com^$important
 @@|elb-lon-gcp.nimbus.bitdefender.net^$important
 @@|elb-ore-gcp.nimbus.bitdefender.net^$important
+@@|elections.nsw.gov.au^$important
 @@|elm-lang.org^$important
 @@|email-assets.soundcloud.com^$important
 @@|embed.spotify.com^$important
@@ -2072,6 +2074,7 @@
 @@|storecatalogrevocation.storequality.microsoft.com^$important
 @@|storeedgefd.dsx.mp.microsoft.com^$important
 @@|storelocator.aldi.com.au^$important
+@@|stream.radioparadise.com^$important
 @@|streamlabs.com^$important
 @@|styles.redditmedia.com^$important
 @@|supervisor.ext-twitch.tv^$important
@@ -2391,6 +2394,7 @@
 @@|www.gpsoft.com.au^$important
 @@|www.gstatic.com^$important
 @@|www.guru3d.com^$important
+@@|www.guru99.com^$important
 @@|www.gyan.dev^$important
 @@|www.harveynorman.com.au^$important
 @@|www.hasleo.com^$important

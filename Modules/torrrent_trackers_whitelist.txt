@@ -1,9 +1,10 @@
-# Torrent Trackers : Helps speed up torrent downloads
+# Torrent Trackers and sites : Helps speed up torrent downloads
 @@|1337.abcvg.info^$important
 @@|6rt.tace.ru^$important
 @@|9.rarbg.com^$important
 @@|9.rarbg.me^$important
 @@|9.rarbg.to^$important
+@@|apibay.org^$important
 @@|app.icon256.com^$important
 @@|blockads.fivefilters.org^$important
 @@|bt.nfshost.com^$important
@@ -38,11 +39,14 @@
 @@|opentor.org^$important
 @@|opentracker.xyz^$important
 @@|p4p.arenabg.com^$important
+@@|pornleech.ch^$important
 @@|retracker.hotplug.ru^$important
 @@|retracker.netbynet.ru^$important
 @@|t1.leech.ie^$important
 @@|t2.leech.ie^$important
+@@|thepiratebay.org^$important
 @@|thetracker.org^$important
+@@|torrentapi.org^$important
 @@|torrentclub.online^$important
 @@|tp.m-team.cc.php^$important
 @@|tr.ready4.icu^$important
@@ -94,4 +98,7 @@
 @@|vibe.community^$important
 @@|vibe.sleepyinternetfun.xyz^$important
 @@|wassermann.online^$important
+@@|www.torlock.com^$important
 @@|www.torrent.eu.org^$important
+@@|www.torrentapi.org^$important
+@@|xxxadulttorrent.org^$important
