@@ -722,6 +722,7 @@
 @@|dev.xbox.com^$important
 @@|devblogs.microsoft.com^$important
 @@|developer.apple.com^$important
+@@|developer.github.com^$important
 @@|developer.mozilla.org^$important
 @@|developer.soundcloud.com^$important
 @@|developer.spotify.com^$important
@@ -1090,6 +1091,7 @@
 @@|graphql.epicgames.com^$important
 @@|gravatar.com^$important
 @@|greasyfork.org^$important
+@@|greasyfork.s3.us-east-2.amazonaws.com^$important
 @@|groups.gameservices.ea.com^$important
 @@|groups.google.com^$important
 @@|gs.apple.com^$important
@@ -1900,6 +1902,7 @@
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
 @@|social.playstation.com^$important
 @@|sockets.betterttv.net^$important
+@@|sockets.standardnotes.com^$important
 @@|sofia.cdntrex.com^$important
 @@|software-download.microsoft.com^$important
 @@|songbird.cardinalcommerce.com^$important
@@ -2347,6 +2350,7 @@
 @@|www.aec.gov.au^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
+@@|www.alphacoders.com^$important
 @@|www.androidauthority.com^$important
 @@|www.androidcentral.com^$important
 @@|www.anydesk.com^$important
