@@ -449,6 +449,7 @@
 @@|calendar.google.com^$important
 @@|calendars.fe.apple-dns.net^$important
 @@|camo.githubusercontent.com^$important
+@@|canvas-cdn-prod.azureedge.net^$important
 @@|captcha.website^$important
 @@|cast-1.soundcloud.com^$important
 @@|cast.netflix.com^$important
@@ -1932,6 +1933,8 @@
 @@|spaces.live.com^$important
 @@|spade.twitch.tv^$important
 @@|spankbang.com^$important
+@@|sparkcdneus2.azureedge.net^$important
+@@|sparkcdnwus2.azureedge.net^$important
 @@|spclient.wg.spotify.com^$important
 @@|speech.platform.bing.com^$important
 @@|speed.cloudflare.com^$important
