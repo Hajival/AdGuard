@@ -155,6 +155,7 @@
 @@|alipay.com^$important
 @@|alive.github.com^$important
 @@|alomar.emsisoft.com^$important
+@@|alt-images.codestream.com^$important
 @@|altap.cz^$important
 @@|alternativeto.net^$important
 @@|amd.com^$important
@@ -1104,6 +1105,7 @@
 @@|gstatic.com^$important
 @@|guardianproject.gitlab.io^$important
 @@|guardianproject.info^$important
+@@|guides.github.com^$important
 @@|gumtree.com.au^$important
 @@|gumtree.com^$important
 @@|guru99.com^$important
@@ -1635,6 +1637,7 @@
 @@|packaging.python.org^$important
 @@|pages.ebay.com^$important
 @@|pages.engage.xbox.com^$important
+@@|pages.github.com^$important
 @@|pages.soundcloud.com^$important
 @@|pages.status.xbox.com^$important
 @@|panel.seedbox.io^$important
@@ -1805,6 +1808,7 @@
 @@|res.cloudinary.com^$important
 @@|reshade.me^$important
 @@|resource.dopus.com^$important
+@@|rest-api.degoo.com^$important
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
 @@|retracker.local^$important
