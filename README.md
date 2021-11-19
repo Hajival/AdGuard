@@ -1,12 +1,12 @@
 # AdGuard-Home-Whitelist ✅
 
-A strict curated whitelist for AdGuard Home with a focus on maintaining privacy and security.
+A strict curated whitelist for [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) with a focus on enforcing privacy and security.
 
-It also helps avoid ads, trackers and malware, and blocks tracking and telemetry wherever possible.
+It also helps avoid ads, trackers and malware, and blocks tracking and telemetry whenever possible, by default.
 
-It's a great starting point for people who wish to run AdGuard Home in a strict whitelisting manner.
+__It's a great starting point for people who wish to run AdGuard Home in a strict whitelisting manner.__
 
-ℹ Please learn AdGuard Home's interface before using this list.
+ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
 _AdGuard-Home-Whitelist © 2021 - hl2guide_
 
@@ -14,25 +14,25 @@ _AdGuard-Home-Whitelist © 2021 - hl2guide_
 
 ### What's Whitelisted ✔
 
-* Microsoft products (Windows 10)
-* Ubuntu (OS)
-* Development languages (Python, C# etc)
-* Programming Editors (Visual Studio Code and VSCodium)
-* Password Managers (LastPass and Bitwarden)
-* Note Managers (Standard Notes and Evernote)
-* PC Game Launchers (Steam, Epic Games and EA Desktop)
-* Second-Opinion Malware Scanners (Malwarebytes, SuperAntispyware, ESET Online Scanner, HitManPro etc)
-* Australian specific stores (JB Hifi, OfficeWorks etc)
-* Australian government websites (election, tax office etc)
+* 🏢 Microsoft products (Windows 10)
+* 💻 Ubuntu (OS)
+* 📔 Development languages (Python, C# etc)
+* ✍ Programming Editors (Visual Studio Code and VSCodium)
+* 🔑 Password Managers (LastPass and Bitwarden)
+* 📓 Note Managers (Standard Notes and Evernote)
+* 🎮 PC Game Launchers (Steam, Epic Games and EA Desktop)
+* 🦠 Second-Opinion Malware Scanners (Malwarebytes, SuperAntispyware, ESET Online Scanner, HitManPro etc)
+* 🏬 Australian specific stores (JB Hifi, OfficeWorks etc)
+* 🏦 Australian government websites (election, tax office etc)
 * and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
 
 ### What's __Not__ Whitelisted 🛑
 
-* Apple products or services
-* Social media sites
-* Majority of online shopping sites
+* 🍏 Apple products or services
+* 💭 Social media sites
+* 🛒 Majority of online shopping sites
 
-🖊 Take the above into account and that I live in Australia. The whitelist reflects those facts.
+🖊 Take the above into account and that fact I live in Australia. The whitelist reflects those facts.
 
 👀 Check the whitelist first to see if it suits your needs.
 
