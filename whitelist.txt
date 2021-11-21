@@ -386,6 +386,7 @@
 @@|block-test.developerdan.com^$important
 @@|blocklist.cyberthreatcoalition.org^$important
 @@|blocklist.de^$important
+@@|blog.ajay.app^$important
 @@|blog.bit.ly^$important
 @@|blog.br.playstation.com^$important
 @@|blog.codesector.com^$important
@@ -1769,6 +1770,7 @@
 @@|quad9.net^$important
 @@|query.prod.cms.rt.microsoft.com^$important
 @@|qwant.com^$important
+@@|r.msftstatic.com^$important
 @@|r3.o.lencr.org^$important
 @@|r4---sn-npoe7n7y.googlevideo.com^$important
 @@|raindrop.io^$important
@@ -1917,6 +1919,7 @@
 @@|sofia.cdntrex.com^$important
 @@|software-download.microsoft.com^$important
 @@|songbird.cardinalcommerce.com^$important
+@@|sonicbit.net^$important
 @@|sonicseedbox.com^$important
 @@|sonos.soundcloud.com^$important
 @@|sony.co.nz^$important
@@ -2142,6 +2145,7 @@
 @@|templates.svc.www.evernote.com^$important
 @@|tempm.com^$important
 @@|th-eu4.pornone.com^$important
+@@|th.bing.com^$important
 @@|theantisocialengineer.com^$important
 @@|thecheese.co.nz^$important
 @@|thecheese.ddns.net^$important
