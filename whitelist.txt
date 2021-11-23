@@ -47,6 +47,7 @@
 @@|*.onedrive.live.com^$important
 @@|*.phncdn.com^$important
 @@|*.pipe.aria.microsoft.com^$important
+@@|*.playfabapi.com^$important
 @@|*.policies.live.net^$important
 @@|*.prod.do.dsp.mp.microsoft.com^$important
 @@|*.pwdn.net^$important
@@ -121,6 +122,7 @@
 @@|acctcdn.msauth.net^$important
 @@|acctcdn.msftauth.net^$important
 @@|acer.com^$important
+@@|achievements.xboxlive.com^$important
 @@|adaway.org^$important
 @@|adblockplus.org^$important
 @@|addictivetips.com^$important
@@ -343,6 +345,7 @@
 @@|badges.twitch.tv^$important
 @@|bankofamerica.com^$important
 @@|banner.eset.com^$important
+@@|banprocessor.svc.halowaypoint.com^$important
 @@|battle.net^$important
 @@|battlelog.battlefield.com^$important
 @@|bbc.co.uk^$important
@@ -382,6 +385,7 @@
 @@|bitwarden.com^$important
 @@|blackberry.com^$important
 @@|blitz.mb-cosmos.com^$important
+@@|blobs-infiniteugc.svc.halowaypoint.com^$important
 @@|blobs.officehome.msocdn.com^$important
 @@|block-test.developerdan.com^$important
 @@|blocklist.cyberthreatcoalition.org^$important
@@ -753,6 +757,7 @@
 @@|discord.gg^$important
 @@|discordapp.com^$important
 @@|discover.hulu.com^$important
+@@|discovery-infiniteugc.svc.halowaypoint.com^$important
 @@|discuss.dev.twitch.tv^$important
 @@|discussions.apple.com^$important
 @@|displaycatalog.mp.microsoft.com^$important
@@ -853,6 +858,7 @@
 @@|ebay.com.au^$important
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
+@@|economy.svc.halowaypoint.com^$important
 @@|edge.microsoft.com^$important
 @@|edgeassetdelivery.blob.core.windows.net^$important
 @@|edgechunked.cyberdrop.me^$important
@@ -1009,6 +1015,7 @@
 @@|free.hitnews.com^$important
 @@|free.kaspersky.com^$important
 @@|freeones.com^$important
+@@|freetubeapp.io^$important
 @@|friend-list-view.us.np.communication.playstation.net^$important
 @@|friends-public-service-prod.ak.epicgames.com^$important
 @@|friends-public-service-prod06.ol.epicgames.com^$important
@@ -1029,6 +1036,7 @@
 @@|g.live.com^$important
 @@|g.static.mega.co.nz^$important
 @@|galleryn*.awemdia.com^$important
+@@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gamercard.xbox.com^$important
 @@|gateway.discord.gg^$important
@@ -1116,6 +1124,7 @@
 @@|halifax.maelstrom.gameservices.xboxlive.com^$important
 @@|halo.part.xbox.com^$important
 @@|halo.xbox.com^$important
+@@|halostats.svc.halowaypoint.com^$important
 @@|hardware.support.eu.playstation.com^$important
 @@|hash.github.com^$important
 @@|hash.hitmanpro.com^$important
@@ -1174,6 +1183,7 @@
 @@|i.redd.it^$important
 @@|i.reddit.com^$important
 @@|i.scdn.co^$important
+@@|i.stack.imgur.com^$important
 @@|i.vimeocdn.com^$important
 @@|i.ytimg.com^$important
 @@|i1.ytimg.com^$important
@@ -1201,6 +1211,7 @@
 @@|images-*.gog-statics.com^$important
 @@|images-1.discordapp.net^$important
 @@|images-2.discordapp.net^$important
+@@|images-eds-ssl.xboxlive.com^$important
 @@|images-ext-1.discordapp.net^$important
 @@|images-ext-2.discordapp.net^$important
 @@|images-na.ssl-images-amazon.com^$important
@@ -1216,6 +1227,7 @@
 @@|images.nvidia.com^$important
 @@|images.officeworks.com.au^$important
 @@|images.pcgamingwiki.com^$important
+@@|images.platforum.cloud^$important
 @@|images.samsung.com^$important
 @@|images.theabcdn.com^$important
 @@|images.unsplash.com^$important
@@ -1371,6 +1383,7 @@
 @@|live.sysinternals.com^$important
 @@|live.xbox.com^$important
 @@|livetileedge.dsx.mp.microsoft.com^$important
+@@|lobby-hi.svc.halowaypoint.com^$important
 @@|local.adguard.com^$important
 @@|login.aliexpress.com^$important
 @@|login.gog.com^$important
@@ -1666,6 +1679,23 @@
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
 @@|perf.store.on.epicgames.com^$important
+@@|pfmsqos.australiaeast.cloudapp.azure.com^$important
+@@|pfmsqos.australiasoutheast.cloudapp.azure.com^$important
+@@|pfmsqos.brazilsouth.cloudapp.azure.com^$important
+@@|pfmsqos.centralus.cloudapp.azure.com^$important
+@@|pfmsqos.eastasia.cloudapp.azure.com^$important
+@@|pfmsqos.eastus.cloudapp.azure.com^$important
+@@|pfmsqos.eastus2.cloudapp.azure.com^$important
+@@|pfmsqos.japaneast.cloudapp.azure.com^$important
+@@|pfmsqos.japanwest.cloudapp.azure.com^$important
+@@|pfmsqos.northcentralus.cloudapp.azure.com^$important
+@@|pfmsqos.northeurope.cloudapp.azure.com^$important
+@@|pfmsqos.southafricanorth.cloudapp.azure.com^$important
+@@|pfmsqos.southcentralus.cloudapp.azure.com^$important
+@@|pfmsqos.southeastasia.cloudapp.azure.com^$important
+@@|pfmsqos.westeurope.cloudapp.azure.com^$important
+@@|pfmsqos.westus.cloudapp.azure.com^$important
+@@|pfmsqos.westus2.cloudapp.azure.com^$important
 @@|pgl.yoyo.org^$important
 @@|phishing.army^$important
 @@|photo.plus.google.com^$important
@@ -1733,6 +1763,7 @@
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
 @@|privacy.microsoft.com^$important
 @@|privacy.sexy^$important
+@@|privacy.xboxlive.com^$important
 @@|prod-cleo.malwarebytes.com^$important
 @@|prod-nginz-https.wire.com^$important
 @@|prod-nginz-ssl.wire.com^$important
@@ -1744,6 +1775,7 @@
 @@|production.assets.clips.twitchcdn.net^$important
 @@|products.office.com^$important
 @@|profile.gigabyte.com^$important
+@@|profile.xboxlive.com^$important
 @@|promo.kaspersky.com^$important
 @@|promotion.aliexpress.com^$important
 @@|promotions.newegg.com^$important
@@ -1763,6 +1795,7 @@
 @@|pw.nexusmods.com^$important
 @@|pypi.org^$important
 @@|q.ebaystatic.com^$important
+@@|qa.sockets.stackexchange.com^$important
 @@|qcz.gallery.vsassets.io^$important
 @@|qos*.ol.epicgames.com^$important
 @@|qos-prod-bio-dub-common-common.gos.ea.com^$important
@@ -1827,6 +1860,7 @@
 @@|rover.ebay.com^$important
 @@|rpg.twitch.tv^$important
 @@|rss.acast.com^$important
+@@|rta.xboxlive.com^$important
 @@|rtm.tnt-ea.com^$important
 @@|rtss.guru3d.com^$important
 @@|ru-*.1fichier.com^$important
@@ -1883,10 +1917,12 @@
 @@|services.gfe.nvidia.com^$important
 @@|services.prod.mozaws.net^$important
 @@|services.unifiedremote.com^$important
+@@|sessiondirectory.xboxlive.com^$important
 @@|settings-ssl.xboxlive.com^$important
 @@|settings-win.data.microsoft.com^$important
 @@|settings.data.microsoft.com^$important
 @@|settings.live.net^$important
+@@|settings.svc.halowaypoint.com^$important
 @@|sfdataservice.microsoft.com^$important
 @@|sfx.thelazy.net^$important
 @@|share.dmca.gripe^$important
@@ -1900,10 +1936,13 @@
 @@|sign-in.soundcloud.com^$important
 @@|signaler-pa.clients*.google.com^$important
 @@|signin.ea.com^$important
+@@|signinupcdn.blob.core.windows.net^$important
 @@|signup.hulu.com^$important
 @@|signup.live.com^$important
 @@|signup.netflix.com^$important
 @@|sirius.mwbsys.com^$important
+@@|sisu.xboxlive.com^$important
+@@|skill.svc.halowaypoint.com^$important
 @@|skyapi.live.net^$important
 @@|skydrive.live.com^$important
 @@|slow-*.keep2share.cc^$important
@@ -1914,6 +1953,7 @@
 @@|snapi.live.net^$important
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
 @@|social.playstation.com^$important
+@@|social.xboxlive.com^$important
 @@|sockets.betterttv.net^$important
 @@|sockets.standardnotes.com^$important
 @@|sofia.cdntrex.com^$important
@@ -1977,6 +2017,7 @@
 @@|st*.debrid.link^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
 @@|st.deviantart.net^$important
+@@|stackauth.com^$important
 @@|stackexchange.com^$important
 @@|stackoverflow.com^$important
 @@|staging.plex.tv^$important
@@ -2141,9 +2182,11 @@
 @@|target.com^$important
 @@|targetednotifications-tm.trafficmanager.net^$important
 @@|teams.microsoft.com^$important
+@@|telemetry-clients.svc.halowaypoint.com^$important
 @@|telemetry.malwarebytes.com^$important
 @@|templates.svc.www.evernote.com^$important
 @@|tempm.com^$important
+@@|text.svc.halowaypoint.com^$important
 @@|th-eu4.pornone.com^$important
 @@|th.bing.com^$important
 @@|theantisocialengineer.com^$important
@@ -2171,6 +2214,7 @@
 @@|time.windows.com^$important
 @@|title.auth.xboxlive.com^$important
 @@|title.mgt.xboxlive.com^$important
+@@|titlestorage.xboxlive.com^$important
 @@|token.cp.microsoft.com/^$important
 @@|tokens-auth.touchtype-fluency.com^$important
 @@|tokensit.cp.microsoft-tst.com/^$important
@@ -2216,6 +2260,7 @@
 @@|ubisoft-orbit-savegames.s3.amazonaws.com^$important
 @@|ubistatic*-a.akamaihd.net^$important
 @@|ubuntu.com^$important
+@@|ubuntuforums.org^$important
 @@|udomain.dl.sourceforge.net^$important
 @@|ue-launcher-website-prod.ol.epicgames.com^$important
 @@|ufs*.steamcontent.com^$important
@@ -2334,6 +2379,7 @@
 @@|web.vortex.data.microsoft.com^$important
 @@|webchat.kde.org^$important
 @@|webinstallers.gog-statics.com^$important
+@@|westus.tts.speech.microsoft.com^$important
 @@|whatsnew.teamviewer.com^$important
 @@|whstatics.cdntrex.com^$important
 @@|wiki.mozilla.org^$important
@@ -2485,6 +2531,7 @@
 @@|www.tampermonkey.net^$important
 @@|www.target.com.au^$important
 @@|www.techpowerup.com^$important
+@@|www.techsupportforum.com^$important
 @@|www.tenforums.com^$important
 @@|www.trueachievements.com^$important
 @@|www.twitch.tv^$important
