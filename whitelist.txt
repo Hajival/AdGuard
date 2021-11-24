@@ -121,8 +121,10 @@
 @@|accounts.youtube.com^$important
 @@|acctcdn.msauth.net^$important
 @@|acctcdn.msftauth.net^$important
+@@|acdn.adaware.com^$important
 @@|acer.com^$important
 @@|achievements.xboxlive.com^$important
+@@|adawareupdateservice.lavasoft.com^$important
 @@|adaway.org^$important
 @@|adblockplus.org^$important
 @@|addictivetips.com^$important
@@ -150,6 +152,7 @@
 @@|albert.apple.com^$important
 @@|albums1.cdntrex.com^$important
 @@|aldi.com.au^$important
+@@|aldicatalogue.blob.core.windows.net^$important
 @@|aldimobile.com.au^$important
 @@|alibaba.com^$important
 @@|alicdn.com^$important
@@ -317,6 +320,7 @@
 @@|authy.vimeo.com^$important
 @@|autocomplete.kaspersky.com^$important
 @@|autopatch.juno.ea.com^$important
+@@|av-updateservice.adaware.com^$important
 @@|avatar.pornone.com^$important
 @@|avatarfiles.alphacoders.com^$important
 @@|avatars*.githubusercontent.com^$important
@@ -519,6 +523,7 @@
 @@|cdn1-ht-thumbnails.pornerbros.com^$important
 @@|cdn1.unrealengine.com^$important
 @@|cdn1.xda-developers.com^$important
+@@|cdn2.hubspot.net^$important
 @@|cdn2.unrealengine.com^$important
 @@|cdn4.appwork.org^$important
 @@|cdn57.androidauthority.net^$important
@@ -824,6 +829,7 @@
 @@|download1.gigabyte.com^$important
 @@|download2280.mediafire.com^$important
 @@|downloadmirror.intel.com^$important
+@@|downloadnada.adaware.com^$important
 @@|downloads.auslogics.com^$important
 @@|downloads.intercomcdn.com^$important
 @@|downloads.malwarebytes.com^$important
@@ -941,6 +947,7 @@
 @@|f-droid.org^$important
 @@|f-secure.com^$important
 @@|f.cyberdrop.cc^$important
+@@|f.hubspotusercontent40.net^$important
 @@|f.vimeocdn.com^$important
 @@|f1techcomputers.com.au^$important
 @@|fan.twitch.tv^$important
@@ -1525,6 +1532,7 @@
 @@|mute.bradconte.com^$important
 @@|mvp.xbox.com^$important
 @@|mwf-service.akamaized.net^$important
+@@|my.anydesk.com^$important
 @@|my.gov.au^$important
 @@|my.jdownloader.org^$important
 @@|my.kaspersky.com^$important
@@ -1645,6 +1653,7 @@
 @@|p.twitchcdn.net^$important
 @@|p.typekit.net^$important
 @@|p15.zdassets.com^$important
+@@|p20.zdassets.com^$important
 @@|p3a.brave.com^$important
 @@|p4p.arenabg.com^$important
 @@|packages.chocolatey.org^$important
@@ -1931,6 +1940,7 @@
 @@|shavar.services.mozilla.com^$important
 @@|shield.sitelock.com^$important
 @@|shields.io^$important
+@@|shop.aldi.com.au^$important
 @@|shop.coles.com.au^$important
 @@|shop.lego.com^$important
 @@|sign-in.soundcloud.com^$important
@@ -2048,6 +2058,7 @@
 @@|static.depositfiles.com^$important
 @@|static.freedownloadmanager.org^$important
 @@|static.gigabyte.com^$important
+@@|static.hsstatic.net^$important
 @@|static.icloud.com^$important
 @@|static.intercomassets.com^$important
 @@|static.itch.io^$important
@@ -2139,6 +2150,8 @@
 @@|styles.redditmedia.com^$important
 @@|supervisor.ext-twitch.tv^$important
 @@|suporte.br.playstation.com^$important
+@@|support.adaware.com^$important
+@@|support.anydesk.com^$important
 @@|support.apple.com^$important
 @@|support.asia.playstation.com^$important
 @@|support.cloudflare.com^$important
