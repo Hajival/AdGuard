@@ -39,7 +39,7 @@ _AdGuard-Home-Whitelist © 2021 - hl2guide_
 ### Details
 
 * __Expected AdGuard Home Average RAM Usage:__ around 16MB
-* __Number of Rules:__ over 2400
+* __Number of Rules:__ over 2600
 
 See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
 
