@@ -569,6 +569,7 @@
 @@|ci.rdtcdn.com^$important
 @@|ci4.googleusercontent.com^$important
 @@|ci5.googleusercontent.com^$important
+@@|cli.speedtest.net^$important
 @@|client-api.arkoselabs.com^$important
 @@|client-download.steampowered.com^$important
 @@|client-event-reporter.twitch.tv^$important
@@ -1084,6 +1085,7 @@
 @@|github.developerdan.com^$important
 @@|github.githubassets.com^$important
 @@|github.io^$important
+@@|githubstatus.com^$important
 @@|gitlab.com^$important
 @@|glass.twitch.tv^$important
 @@|glb.paypal.com^$important
@@ -1276,6 +1278,7 @@
 @@|inoreader.com^$important
 @@|input.mozilla.org^$important
 @@|inspector.twitch.tv^$important
+@@|install.speedtest.net^$important
 @@|intel.com.au^$important
 @@|intel.com^$important
 @@|invent.kde.org^$important
@@ -1563,6 +1566,7 @@
 @@|nintendo.net^$important
 @@|nitroflare.com^$important
 @@|nn.speedtest.vodafone.com.au.prod.hosts.ooklaserver.net^$important
+@@|nn.speedtest.vodafone.com.au^$important
 @@|normandy.cdn.mozilla.net^$important
 @@|notice.xbox.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
@@ -1857,6 +1861,7 @@
 @@|reshade.me^$important
 @@|resource.dopus.com^$important
 @@|rest-api.degoo.com^$important
+@@|results.speedtest.net^$important
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
 @@|retracker.local^$important
@@ -2002,11 +2007,15 @@
 @@|speed4.snap.net.nz.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.apac-tools.ovh.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.launtel.net.au.prod.hosts.ooklaserver.net^$important
+@@|speedtest-syd.launtel.net.au^$important
 @@|speedtest-syd.optusnet.com.au^$important
 @@|speedtest-syd.vocus.net.prod.hosts.ooklaserver.net^$important
+@@|speedtest-syd.vocus.net^$important
 @@|speedtest-vds1.tasmanet.com.au^$important
 @@|speedtest.mirror.digitalpacific.com.au.prod.hosts.ooklaserver.net^$important
+@@|speedtest.mirror.digitalpacific.com.au^$important
 @@|speedtest.net^$important
+@@|speedtest.syd.netsg.net.au^$important
 @@|sphinx.acast.com^$important
 @@|split-evaluator-prod.eax.ea.com^$important
 @@|spo-ring.msedge.net^$important
@@ -2030,6 +2039,7 @@
 @@|ssl.reddit.com^$important
 @@|st*.debrid.link^$important
 @@|st-syd-02.gcomm.com.au.prod.hosts.ooklaserver.net^$important
+@@|st-syd-02.gcomm.com.au^$important
 @@|st.deviantart.net^$important
 @@|stackauth.com^$important
 @@|stackexchange.com^$important
@@ -2437,6 +2447,7 @@
 @@|www.apkmirror.com^$important
 @@|www.autohotkey.com^$important
 @@|www.base64decode.org^$important
+@@|www.binbucks.com^$important
 @@|www.bing.com^$important
 @@|www.binglee.com.au^$important
 @@|www.blizzard.com^$important
