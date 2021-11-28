@@ -92,6 +92,8 @@
 @@|a.nel.cloudflare.com^$important
 @@|a.tiles.mapbox.com^$important
 @@|a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
+@@|aadcdn.msauth.net^$important
+@@|aadcdn.msftauth.net^$important
 @@|abnzb.com^$important
 @@|about.gitlab.com^$important
 @@|ac.duckduckgo.com^$important
@@ -137,6 +139,7 @@
 @@|adidas.com^$important
 @@|adl.windows.com^$important
 @@|adult.com^$important
+@@|aex.dev.azure.com^$important
 @@|affiliate.twitch.tv^$important
 @@|airtable.com^$important
 @@|ajax.aspnetcdn.com^$important
@@ -259,6 +262,7 @@
 @@|app.standardnotes.com^$important
 @@|app.twitch.tv^$important
 @@|app.vsaex.visualstudio.com^$important
+@@|app.vssps.visualstudio.com^$important
 @@|appboot.netflix.com^$important
 @@|appengine.google.com^$important
 @@|appldnld.apple.com^$important
@@ -729,6 +733,7 @@
 @@|decentraleyes.org^$important
 @@|def-vef.xboxlive.com^$important
 @@|definitionsbd.adaware.com^$important
+@@|definitionupdates.microsoft.com^$important
 @@|degoo.com^$important
 @@|deliver.ptgncdn.com^$important
 @@|dell.com^$important
@@ -1459,6 +1464,7 @@
 @@|marketplace.visualstudio.com^$important
 @@|marketplace.xbox.com^$important
 @@|massive.io^$important
+@@|master.dl.sourceforge.net^$important
 @@|master.net-radio.fr^$important
 @@|maxcdn.bootstrapcdn.com^$important
 @@|mc.yandex.ru^$important
@@ -2015,6 +2021,7 @@
 @@|speedtest.mirror.digitalpacific.com.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest.mirror.digitalpacific.com.au^$important
 @@|speedtest.net^$important
+@@|speedtest.syd.netsg.net.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest.syd.netsg.net.au^$important
 @@|sphinx.acast.com^$important
 @@|split-evaluator-prod.eax.ea.com^$important
@@ -2025,6 +2032,7 @@
 @@|spotlights-feed.github.com^$important
 @@|spreadsheets.google.com^$important
 @@|spring14.gosredirector.ea.com^$important
+@@|spsprodeau1.vssps.visualstudio.com^$important
 @@|sqlite.org^$important
 @@|sqlitebrowser.org^$important
 @@|squidblacklist.org^$important
@@ -2393,6 +2401,7 @@
 @@|vscodium.now.sh^$important
 @@|vscodium.vercel.app^$important
 @@|vsmarketplacebadge.apphb.com^$important
+@@|vssps.dev.azure.com^$important
 @@|vsstartpagenewsfeed.azureedge.net^$important
 @@|vtvkm5urpx-1.algolianet.com^$important
 @@|vtvkm5urpx-2.algolianet.com^$important
