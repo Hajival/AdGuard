@@ -1,5 +1,10 @@
 # AdGuard-Home-Whitelist ✅
 
+Version: 1.1.12
+Last Updated: 2021-11-29 11:57:53AM
+
+## Intro
+
 A strict curated whitelist for [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) with a focus on enforcing privacy and security.
 
 It also helps avoid ads, trackers and malware, and blocks tracking and telemetry whenever possible, by default.
