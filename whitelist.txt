@@ -751,6 +751,7 @@
 @@|dell.com^$important
 @@|depositfiles.com^$important
 @@|desktop-config.juno.ea.com^$important
+@@|dev.mysql.com^$important
 @@|dev.soundcloud.com^$important
 @@|dev.twitch.tv^$important
 @@|dev.vimeo.com^$important
@@ -850,6 +851,7 @@
 @@|download2280.mediafire.com^$important
 @@|downloadmirror.intel.com^$important
 @@|downloadnada.adaware.com^$important
+@@|downloads.apache.org^$important
 @@|downloads.auslogics.com^$important
 @@|downloads.intercomcdn.com^$important
 @@|downloads.malwarebytes.com^$important
@@ -1117,6 +1119,7 @@
 @@|gmail.com^$important
 @@|gmail.google.com^$important
 @@|go-updater.brave.com^$important
+@@|go.dev^$important
 @@|go.eset.com^$important
 @@|go.eset.eu^$important
 @@|go.microsoft.com^$important
@@ -1125,6 +1128,7 @@
 @@|gog-statics.com^$important
 @@|gog.com^$important
 @@|gogalaxy.gog-statics.com^$important
+@@|golang.org^$important
 @@|gold.xhamsterpremium.com^$important
 @@|goo.gl^$important
 @@|google.cdn.steampipe.steamcontent.com^$important
@@ -1204,6 +1208,7 @@
 @@|hotpornfile.disqus.com^$important
 @@|hotpornfile.org^$important
 @@|houseofmega.com^$important
+@@|httpd.apache.org^$important
 @@|https-rulesets.org^$important
 @@|hu.twitch.tv^$important
 @@|hu.wikipedia.com^$important
@@ -1366,6 +1371,7 @@
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
 @@|l-ring.msedge.net^$important
 @@|la.wikipedia.com^$important
+@@|labs.mysql.com^$important
 @@|lancache.steamcontent.com^$important
 @@|landing-pages.gog-statics.com^$important
 @@|laptop-updates.brave.com^$important
@@ -1482,6 +1488,7 @@
 @@|maps.gstatic.com^$important
 @@|maps.windows.com^$important
 @@|maren.cdntrex.com^$important
+@@|mariadb.org^$important
 @@|marketplace-origin.xbox.com^$important
 @@|marketplace-screenshots.githubusercontent.com^$important
 @@|marketplace.visualstudio.com^$important
@@ -1617,6 +1624,7 @@
 @@|nvidia.com^$important
 @@|nz.static.mega.co.nz^$important
 @@|nzb360.com^$important
+@@|nzbfinder.ws^$important
 @@|nzbstars.com^$important
 @@|o-*.1fichier.com^$important
 @@|o.xbox.com^$important
@@ -1919,6 +1927,7 @@
 @@|rtm.tnt-ea.com^$important
 @@|rtss.guru3d.com^$important
 @@|ru-*.1fichier.com^$important
+@@|rubyinstaller.org^$important
 @@|rules2.clearurls.xyz^$important
 @@|rumble.com^$important
 @@|s*.pornone.com^$important
@@ -2462,6 +2471,7 @@
 @@|wikipedia.org^$important
 @@|win10.ipv6.microsoft.com^$important
 @@|winaero.com^$important
+@@|windows.php.net^$important
 @@|winget.azureedge.net^$important
 @@|winscp.net^$important
 @@|winstall.app^$important
@@ -2476,6 +2486,7 @@
 @@|wt.soundcloud.com^$important
 @@|wtfismyip.com^$important
 @@|wus-streaming-video-rt-microsoft-com.akamaized.net^$important
+@@|wus2.gssv-play-prodxhome.xboxlive.com^$important
 @@|www*.mediafire.com^$important
 @@|www*.uptobox.com^$important
 @@|www.7-zip.org^$important
@@ -2565,6 +2576,7 @@
 @@|www.msftconnecttest.com*^$important
 @@|www.msi.com^$important
 @@|www.msn.com^$important
+@@|www.mysql.com^$important
 @@|www.newshosting.com^$important
 @@|www.nexusmods.com^$important
 @@|www.nirsoft.net^$important
@@ -2577,6 +2589,7 @@
 @@|www.officeworks.com.au^$important
 @@|www.omgubuntu.co.uk^$important
 @@|www.oo-software.com^$important
+@@|www.oracle.com^$important
 @@|www.outlook.com^$important
 @@|www.patreon.com^$important
 @@|www.paypal.com^$important
@@ -2594,6 +2607,7 @@
 @@|www.qwant.com^$important
 @@|www.rarlab.com^$important
 @@|www.recaptcha.net^$important
+@@|www.ruby-lang.org^$important
 @@|www.snappy-driver-installer.org^$important
 @@|www.speedtest.net^$important
 @@|www.sqlite.org^$important
