@@ -102,6 +102,7 @@
 @@|account-public-service-prod03.ol.epicgames.com^$important
 @@|account.adguard.com^$important
 @@|account.live.com^$important
+@@|account.microsoft.com^$important
 @@|account.np.ac.playstation.net.edgekey.net^$important
 @@|account.np.ac.playstation.net^$important
 @@|account.nvidia.com^$important
@@ -123,6 +124,8 @@
 @@|accounts.youtube.com^$important
 @@|acctcdn.msauth.net^$important
 @@|acctcdn.msftauth.net^$important
+@@|acctcdnmsftuswe2.azureedge.net^$important
+@@|acctcdnvzeuno.azureedge.net^$important
 @@|acdn.adaware.com^$important
 @@|acer.com^$important
 @@|achievements.xboxlive.com^$important
@@ -285,6 +288,7 @@
 @@|aspmx.l.google.com^$important
 @@|aspmx2.googlemail.com^$important
 @@|aspmx3.googlemail.com^$important
+@@|assets*.xboxlive.com^$important
 @@|assets-cdn.github.com^$important
 @@|assets-www.xbox.com^$important
 @@|assets.acq-inc.com^$important
@@ -303,6 +307,7 @@
 @@|assets.windscribe.com^$important
 @@|assets.www.cloudflare.com^$important
 @@|assets.xbox.com^$important
+@@|assets.xboxservices.com^$important
 @@|ato.gov.au^$important
 @@|attestation.xboxlive.com^$important
 @@|au.download.windowsupdate.com^$important
@@ -438,6 +443,7 @@
 @@|bunnings.com.au^$important
 @@|c*.patreonusercontent.com^$important
 @@|c*.wp.com^$important
+@@|c-ring.msedge.net^$important
 @@|c.bing.com^$important
 @@|c.degoo.biz^$important
 @@|c.degoo.eu^$important
@@ -448,6 +454,7 @@
 @@|c.paypal.com^$important
 @@|c.ptgncdn.com^$important
 @@|c.s-microsoft.com^$important
+@@|c.xbox.com^$important
 @@|c0a80167.mydns.jdownloader.org^$important
 @@|c1.microsoft.com^$important
 @@|c6.paypal.com^$important
@@ -466,6 +473,7 @@
 @@|camo.githubusercontent.com^$important
 @@|canvas-cdn-prod.azureedge.net^$important
 @@|captcha.website^$important
+@@|cart.production.store-web.dynamics.com^$important
 @@|cast-1.soundcloud.com^$important
 @@|cast.netflix.com^$important
 @@|cast.soundcloud.com^$important
@@ -540,6 +548,7 @@
 @@|cdp.aliexpress.com^$important
 @@|cdp.rapidssl.com^$important
 @@|cec.svc.evernote.com^$important
+@@|cem.services.microsoft.com^$important
 @@|cert.mgt.xboxlive.com^$important
 @@|cf-files.nexusmods.com^$important
 @@|cfl.dropboxstatic.com^$important
@@ -548,6 +557,7 @@
 @@|change.org^$important
 @@|changelog.m7g.twitch.tv^$important
 @@|chart.googleapis.com^$important
+@@|chat.xboxlive.com^$important
 @@|chatdepot.twitch.tv^$important
 @@|chatenabled.mail.google.com^$important
 @@|chatlounge-preview.xbox.com^$important
@@ -597,6 +607,7 @@
 @@|cloud.githubusercontent.com^$important
 @@|cloud.hitmanpro.com^$important
 @@|cloudflare.com^$important
+@@|clubhub.xboxlive.com^$important
 @@|cm*.cm.steampowered.com^$important
 @@|code.cdn.mozilla.net^$important
 @@|code.getmdl.io^$important
@@ -627,6 +638,7 @@
 @@|community.xbox.com^$important
 @@|communityteam.software.eu.playstation.com^$important
 @@|companyaccount.kaspersky.com^$important
+@@|compass-ssl.microsoft.com^$important
 @@|compass-ssl.xbox.com^$important
 @@|compass.xbox.com^$important
 @@|componentupdater.brave.com^$important
@@ -875,6 +887,7 @@
 @@|economy.svc.halowaypoint.com^$important
 @@|edge.microsoft.com^$important
 @@|edgeassetdelivery.blob.core.windows.net^$important
+@@|edgeassetservice.azureedge.net^$important
 @@|edgechunked.cyberdrop.me^$important
 @@|edgefrecdn.azureedge.net^$important
 @@|edgestoreweb.azureedge.net^$important
@@ -894,6 +907,7 @@
 @@|embed.twitch.tv^$important
 @@|emdl.ws.microsoft.com^$important
 @@|emea01.safelinks.protection.outlook.com^$important
+@@|emerald.xboxservices.com^$important
 @@|ems-delivery.api.playstation.com^$important
 @@|en.m.wikipedia.com^$important
 @@|en.m.wikipedia.org^$important
@@ -919,6 +933,7 @@
 @@|epix-ssl.xbox.com^$important
 @@|epix.xbox.com^$important
 @@|epl.paypal-communication.com^$important
+@@|eplists.xboxlive.com^$important
 @@|es-mx.twitch.tv^$important
 @@|es.aliexpress.com^$important
 @@|es.blog.twitch.tv^$important
@@ -1018,6 +1033,9 @@
 @@|forums.xbox.com^$important
 @@|forums.xda-developers.com^$important
 @@|fossbytes.com^$important
+@@|fp-afd.azureedge.net^$important
+@@|fp-vp.azureedge.net^$important
+@@|fp.msedge.net^$important
 @@|fp.profiles.us.playstation.com^$important
 @@|fpt.microsoft.com^$important
 @@|fpt.xbox.com^$important
@@ -1052,6 +1070,7 @@
 @@|g.live.com^$important
 @@|g.static.mega.co.nz^$important
 @@|galleryn*.awemdia.com^$important
+@@|gameclipscontent-*.xboxlive.com^$important
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gamercard.xbox.com^$important
@@ -1229,6 +1248,7 @@
 @@|images-1.discordapp.net^$important
 @@|images-2.discordapp.net^$important
 @@|images-eds-ssl.xboxlive.com^$important
+@@|images-eds.xboxlive.com^$important
 @@|images-ext-1.discordapp.net^$important
 @@|images-ext-2.discordapp.net^$important
 @@|images-na.ssl-images-amazon.com^$important
@@ -1344,6 +1364,7 @@
 @@|kmart.com^$important
 @@|koofr.eu^$important
 @@|kv601.prod.do.dsp.mp.microsoft.com^$important
+@@|l-ring.msedge.net^$important
 @@|la.wikipedia.com^$important
 @@|lancache.steamcontent.com^$important
 @@|landing-pages.gog-statics.com^$important
@@ -1355,6 +1376,8 @@
 @@|letsencrypt.org^$important
 @@|letsupload.io^$important
 @@|lfghub-anonymous.xboxlive.com^$important
+@@|lgincdnmsftuswe2.azureedge.net^$important
+@@|lgincdnvzeuno.azureedge.net^$important
 @@|lh*.googleusercontent.com^$important
 @@|lh3.google.com^$important
 @@|lh3.googleusercontent.com^$important
@@ -1576,6 +1599,7 @@
 @@|normandy.cdn.mozilla.net^$important
 @@|notice.xbox.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
+@@|notificationinbox.xboxlive.com^$important
 @@|notifications-pusher.gog.com^$important
 @@|notifications.bitwarden.com^$important
 @@|notifications.gog.com^$important
@@ -1596,6 +1620,7 @@
 @@|nzbstars.com^$important
 @@|o-*.1fichier.com^$important
 @@|o.xbox.com^$important
+@@|o741402.ingest.sentry.io^$important
 @@|oapi.opalsystems.com.au^$important
 @@|oauth.live.com^$important
 @@|objects.githubusercontent.com^$important
@@ -1661,6 +1686,7 @@
 @@|outlook.office.com^$important
 @@|outlook.office365.com^$important
 @@|outlookmobile-office365-tas.msedge.net^$important
+@@|ow1.res.office365.com^$important
 @@|p.ebaystatic.com^$important
 @@|p.sfx.ms^$important
 @@|p.twitchcdn.net^$important
@@ -1670,6 +1696,7 @@
 @@|p3a.brave.com^$important
 @@|p4p.arenabg.com^$important
 @@|packages.chocolatey.org^$important
+@@|packagespc.xboxlive.com^$important
 @@|packaging.python.org^$important
 @@|pages.ebay.com^$important
 @@|pages.engage.xbox.com^$important
@@ -1693,6 +1720,7 @@
 @@|payments.help.soundcloud.com^$important
 @@|payments.openalerts.com^$important
 @@|payments.soundcloud.com^$important
+@@|paymentsredirectionservice.cp.microsoft.com^$important
 @@|paypal.com^$important
 @@|paypal.de^$important
 @@|paypalobjects.com^$important
@@ -1701,6 +1729,7 @@
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
+@@|peoplehub.xboxlive.com^$important
 @@|perf.store.on.epicgames.com^$important
 @@|pfmsqos.australiaeast.cloudapp.azure.com^$important
 @@|pfmsqos.australiasoutheast.cloudapp.azure.com^$important
@@ -1846,6 +1875,7 @@
 @@|rd-icons-icons8.gumlet.io^$important
 @@|rdl.ink^$important
 @@|reader.usenet.agency^$important
+@@|reco-public.rec.mp.microsoft.com^$important
 @@|redcross.org^$important
 @@|redditstatic.com^$important
 @@|redemptionservices.accesscontrol.windows.net^$important
@@ -1867,6 +1897,7 @@
 @@|reshade.me^$important
 @@|resource.dopus.com^$important
 @@|rest-api.degoo.com^$important
+@@|rest.iad-03.braze.com^$important
 @@|results.speedtest.net^$important
 @@|retracker.ip.ncnet.ru^$important
 @@|retracker.lanta-net.ru^$important
@@ -1913,6 +1944,7 @@
 @@|scan.hitmanpro.com^$important
 @@|scan.kaspersky.com^$important
 @@|scoop.sh^$important
+@@|screenshotscontent-*.xboxlive.com^$important
 @@|script.google.com^$important
 @@|scrootca2.ocsp.secomtrust.net^$important
 @@|search.brave.com^$important
@@ -1953,6 +1985,7 @@
 @@|shared-static-prod.epicgames.com^$important
 @@|shavar.prod.mozaws.net^$important
 @@|shavar.services.mozilla.com^$important
+@@|shell.cdn.office.net^$important
 @@|shield.sitelock.com^$important
 @@|shields.io^$important
 @@|shop.aldi.com.au^$important
@@ -2107,6 +2140,7 @@
 @@|staticdelivery.nexusmods.com^$important
 @@|statics-*.onestore.ms^$important
 @@|statics-marketingsites-eas-ms-com.akamaized.net^$important
+@@|statics-marketingsites-eus-ms-com.akamaized.net^$important
 @@|statics-marketingsites-wcus-ms-com.akamaized.net^$important
 @@|statics-storeexp-eas-ms-com.akamaized.net^$important
 @@|statics-xbc-eas.xbox.com^$important
@@ -2249,6 +2283,7 @@
 @@|time.windows.com^$important
 @@|title.auth.xboxlive.com^$important
 @@|title.mgt.xboxlive.com^$important
+@@|titlehub.xboxlive.com^$important
 @@|titlestorage.xboxlive.com^$important
 @@|token.cp.microsoft.com/^$important
 @@|tokens-auth.touchtype-fluency.com^$important
@@ -2348,6 +2383,7 @@
 @@|usenet.farm^$important
 @@|user-content.gitlab-static.net^$important
 @@|user-images.githubusercontent.com^$important
+@@|user.auth.xboxlive.com^$important
 @@|userpresence.xboxlive.com^$important
 @@|users.nexusmods.com^$important
 @@|userstats.xboxlive.com^$important
@@ -2470,6 +2506,7 @@
 @@|www.cloudflare.com^$important
 @@|www.codesector.com^$important
 @@|www.coles.com.au^$important
+@@|www.dashlane.com^$important
 @@|www.dotnetperls.com^$important
 @@|www.dropbox.com^$important
 @@|www.dsogaming.com^$important
@@ -2597,15 +2634,19 @@
 @@|wwz-production.wwzapi.com^$important
 @@|wwz.wwzapi.com^$important
 @@|x1.c.lencr.org^$important
+@@|xblmessaging.xboxlive.com^$important
 @@|xbox.com^$important
 @@|xbox.ipv6.microsoft.com^$important
 @@|xboxdesignlab.xbox.com^$important
 @@|xboxexperiencesprod.experimentation.xboxlive.com^$important
 @@|xboxlive.com^$important
+@@|xccs.xboxlive.com^$important
 @@|xda-developers.com^$important
 @@|xfce.org^$important
 @@|xflight.xboxlive.com^$important
+@@|xgpupcapp.gssv-play-prod.xboxlive.com^$important
 @@|xhamster.com^$important
+@@|xhome.gssv-play-prod.xboxlive.com^$important
 @@|xkms.xboxlive.com^$important
 @@|xmpp-service-prod.ol.epicgames.com^$important
 @@|xpui.app.spotify.com^$important
