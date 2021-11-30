@@ -2,6 +2,8 @@
 @@|*-cdn.eporner.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
 @@|*-prod.wwzapi.com^$important
+@@|*-ring-fallback.msedge.net^$important
+@@|*-ring.msedge.net^$important
 @@|*.*.livefilestore.com^$important
 @@|*.*.onedrive.live.com^$important
 @@|*.*.pool.ntp.org^$important
@@ -398,6 +400,7 @@
 @@|bitsum.com^$important
 @@|bitwarden.com^$important
 @@|blackberry.com^$important
+@@|blacklist.tampermonkey.net^$important
 @@|blitz.mb-cosmos.com^$important
 @@|blobs-infiniteugc.svc.halowaypoint.com^$important
 @@|blobs.officehome.msocdn.com^$important
@@ -549,6 +552,7 @@
 @@|cdp.rapidssl.com^$important
 @@|cec.svc.evernote.com^$important
 @@|cem.services.microsoft.com^$important
+@@|cerberus-front.easyanticheat.net^$important
 @@|cert.mgt.xboxlive.com^$important
 @@|cf-files.nexusmods.com^$important
 @@|cfl.dropboxstatic.com^$important
@@ -698,6 +702,7 @@
 @@|crl3.digicert.com^$important
 @@|crl4.digicert.com^$important
 @@|crlsets.brave.com^$important
+@@|cs.dds.microsoft.com^$important
 @@|cs.phncdn.com^$important
 @@|cs.twitch.tv^$important
 @@|cs.wikipedia.com^$important
@@ -895,6 +900,7 @@
 @@|edgestoreweb.azureedge.net^$important
 @@|edgetips.azureedge.net^$important
 @@|editor.swagger.io^$important
+@@|editorial.xboxlive.com^$important
 @@|eds.xboxlive.com^$important
 @@|education.github.com^$important
 @@|eff.org^$important
@@ -1035,8 +1041,11 @@
 @@|forums.xbox.com^$important
 @@|forums.xda-developers.com^$important
 @@|fossbytes.com^$important
+@@|fp-afd-nocache-ccp.azureedge.net^$important
 @@|fp-afd.azureedge.net^$important
 @@|fp-vp.azureedge.net^$important
+@@|fp-vs-nocache.azureedge.net^$important
+@@|fp-vs.azureedge.net^$important
 @@|fp.msedge.net^$important
 @@|fp.profiles.us.playstation.com^$important
 @@|fpt.microsoft.com^$important
@@ -1182,6 +1191,7 @@
 @@|help.kogan.com^$important
 @@|help.netflix.com^$important
 @@|help.soundcloud.com^$important
+@@|help.steampowered.com^$important
 @@|help.twitch.tv^$important
 @@|help.ubuntu.com^$important
 @@|help.ui.xboxlive.com^$important
@@ -1215,6 +1225,7 @@
 @@|hub.deviantart.net^$important
 @@|hubble.mb-cosmos.com^$important
 @@|humblebundle.com^$important
+@@|hydra.easyanticheat.net^$important
 @@|i*.imageban.ru^$important
 @@|i*.wp.com^$important
 @@|i-dont-care-about-cookies.eu^$important
@@ -1381,6 +1392,7 @@
 @@|lea.cdntrex.com^$important
 @@|letsencrypt.org^$important
 @@|letsupload.io^$important
+@@|level3.cdn.steampipe.steamcontent.com^$important
 @@|lfghub-anonymous.xboxlive.com^$important
 @@|lgincdnmsftuswe2.azureedge.net^$important
 @@|lgincdnvzeuno.azureedge.net^$important
@@ -1551,6 +1563,7 @@
 @@|mobile.kaspersky.com^$important
 @@|mobile.paypal.com^$important
 @@|moddb.com^$important
+@@|modules-cdn.eac-prod.on.epicgames.com^$important
 @@|movies.netflix.com^$important
 @@|mozilla.com^$important
 @@|mozilla.net^$important
@@ -1565,6 +1578,7 @@
 @@|msftncsi.com^$important
 @@|msn.com^$important
 @@|mucp.api.account.microsoft.com^$important
+@@|multiplayeractivity.xboxlive.com^$important
 @@|music.plus.google.com^$important
 @@|music.samsung.com^$important
 @@|music.twitch.tv^$important
@@ -1660,6 +1674,7 @@
 @@|oneclient.sfx.ms^$important
 @@|onedrive.com^$important
 @@|onedrive.live.com^$important
+@@|onedriveclucprodbn*.blob.core.windows.net^$important
 @@|onegetcdn.azureedge.net^$important
 @@|onegov.nsw.gov.au^$important
 @@|oneocsp.microsoft.com^$important
@@ -1824,6 +1839,7 @@
 @@|privacy.microsoft.com^$important
 @@|privacy.sexy^$important
 @@|privacy.xboxlive.com^$important
+@@|privacybadger.org^$important
 @@|prod-cleo.malwarebytes.com^$important
 @@|prod-nginz-https.wire.com^$important
 @@|prod-nginz-ssl.wire.com^$important
@@ -1834,6 +1850,7 @@
 @@|production-appsync.degoo.com^$important
 @@|production.assets.clips.twitchcdn.net^$important
 @@|products.office.com^$important
+@@|profile.gamepass.com^$important
 @@|profile.gigabyte.com^$important
 @@|profile.xboxlive.com^$important
 @@|promo.kaspersky.com^$important
@@ -1845,6 +1862,7 @@
 @@|protonmail.uservoice.com^$important
 @@|proxy.novafusion.ea.com^$important
 @@|proxy.plex.tv^$important
+@@|ps1prdapp01-canary.netmon.azure.com^$important
 @@|psg-prod-eastus.azureedge.net^$important
 @@|pt.potwm.com^$important
 @@|pti.store.microsoft.com^$important
@@ -1883,6 +1901,7 @@
 @@|rd-icons-icons8.gumlet.io^$important
 @@|rdl.ink^$important
 @@|reader.usenet.agency^$important
+@@|recaptcha.net^$important
 @@|reco-public.rec.mp.microsoft.com^$important
 @@|redcross.org^$important
 @@|redditstatic.com^$important
@@ -2294,6 +2313,7 @@
 @@|title.mgt.xboxlive.com^$important
 @@|titlehub.xboxlive.com^$important
 @@|titlestorage.xboxlive.com^$important
+@@|titlestoragencus0102.blob.core.windows.net^$important
 @@|token.cp.microsoft.com/^$important
 @@|tokens-auth.touchtype-fluency.com^$important
 @@|tokensit.cp.microsoft-tst.com/^$important
@@ -2368,6 +2388,7 @@
 @@|update.microsoft.com^$important
 @@|update.videolan.org^$important
 @@|update.vivaldi.com^$important
+@@|updatepc.xboxlive.com^$important
 @@|updates-cdn.bravesoftware.com^$important
 @@|updates.bravesoftware.com^$important
 @@|updates.dziemborowicz.com^$important
