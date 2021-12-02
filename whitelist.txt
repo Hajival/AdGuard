@@ -206,6 +206,7 @@
 @@|api-widget.soundcloud.com^$important
 @@|api.adguard.com^$important
 @@|api.ageofempires.com^$important
+@@|api.bethesda.net^$important
 @@|api.betterttv.net^$important
 @@|api.bing.com^$important
 @@|api.bit.ly^$important
@@ -417,6 +418,7 @@
 @@|blog.eu.playstation.com^$important
 @@|blog.gravatar.com^$important
 @@|blog.hulu.com^$important
+@@|blog.ipfs.io^$important
 @@|blog.it.playstation.com^$important
 @@|blog.mozilla.org^$important
 @@|blog.netflix.com^$important
@@ -476,6 +478,7 @@
 @@|camo.githubusercontent.com^$important
 @@|canvas-cdn-prod.azureedge.net^$important
 @@|captcha.website^$important
+@@|cardinal.maelstrom.gameservices.xboxlive.com^$important
 @@|cart.production.store-web.dynamics.com^$important
 @@|cast-1.soundcloud.com^$important
 @@|cast.netflix.com^$important
@@ -592,6 +595,7 @@
 @@|client-download.steampowered.com^$important
 @@|client-event-reporter.twitch.tv^$important
 @@|client-s.gateway.messenger.live.com^$important
+@@|client-strings.xboxlive.com^$important
 @@|client.dropbox.com^$important
 @@|client.teamviewer.com^$important
 @@|client.wns.windows.com^$important
@@ -1041,6 +1045,9 @@
 @@|forums.xbox.com^$important
 @@|forums.xda-developers.com^$important
 @@|fossbytes.com^$important
+@@|fp-*-nocache.azureedge.net^$important
+@@|fp-*.azureedge.net^$important
+@@|fp-*.azurefd.net^$important
 @@|fp-afd-nocache-ccp.azureedge.net^$important
 @@|fp-afd.azureedge.net^$important
 @@|fp-vp.azureedge.net^$important
@@ -1934,6 +1941,7 @@
 @@|rewards.xbox.com^$important
 @@|rg3.github.io^$important
 @@|ris.api.iris.microsoft.com^$important
+@@|rl0aoelivemk2blob.blob.core.windows.net^$important
 @@|roosterteeth.com^$important
 @@|router*.teamviewer.com^$important
 @@|router.bitcomet.com^$important
@@ -2313,6 +2321,7 @@
 @@|title.mgt.xboxlive.com^$important
 @@|titlehub.xboxlive.com^$important
 @@|titlestorage.xboxlive.com^$important
+@@|titlestorageeus*.blob.core.windows.net^$important
 @@|titlestoragencus0102.blob.core.windows.net^$important
 @@|token.cp.microsoft.com/^$important
 @@|tokens-auth.touchtype-fluency.com^$important
@@ -2515,6 +2524,7 @@
 @@|www.adaware.com^$important
 @@|www.addictivetips.com^$important
 @@|www.aec.gov.au^$important
+@@|www.ageofempires.com^$important
 @@|www.aldi.com.au^$important
 @@|www.aldimobile.com.au^$important
 @@|www.alphacoders.com^$important
@@ -2626,6 +2636,7 @@
 @@|www.python.org^$important
 @@|www.quad9.net^$important
 @@|www.qwant.com^$important
+@@|www.rapidee.com^$important
 @@|www.rarlab.com^$important
 @@|www.recaptcha.net^$important
 @@|www.ruby-lang.org^$important
