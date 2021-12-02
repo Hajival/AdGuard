@@ -234,6 +234,7 @@
 @@|api.opensubtitles.org^$important
 @@|api.paypal.com^$important
 @@|api.picotorrent.org^$important
+@@|api.pop-os.org^$important
 @@|api.pushbullet.com^$important
 @@|api.qwant.com^$important
 @@|api.raindrop.io^$important
@@ -282,6 +283,7 @@
 @@|archlinux.org^$important
 @@|arctic.emsisoft.com^$important
 @@|ark.mwbsys.com^$important
+@@|artoo.system76.com^$important
 @@|asia.creativecdn.com^$important
 @@|asia.playstation.com^$important
 @@|askleo.askleomedia.com^$important
@@ -305,12 +307,14 @@
 @@|assets.onestore.ms^$important
 @@|assets.pippa.io^$important
 @@|assets.sb-cd.com^$important
+@@|assets.system76.com^$important
 @@|assets.ubuntu.com^$important
 @@|assets.vimeo.com^$important
 @@|assets.windscribe.com^$important
 @@|assets.www.cloudflare.com^$important
 @@|assets.xbox.com^$important
 @@|assets.xboxservices.com^$important
+@@|assets.zorincdn.com^$important
 @@|ato.gov.au^$important
 @@|attestation.xboxlive.com^$important
 @@|au.download.windowsupdate.com^$important
@@ -513,6 +517,7 @@
 @@|cdn.flowplayer.com^$important
 @@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
+@@|cdn.globalsigncdn.com.cdn.cloudflare.net^$important
 @@|cdn.gpsoft.com.au^$important
 @@|cdn.guru99.com^$important
 @@|cdn.houseofmega.com^$important
@@ -524,6 +529,7 @@
 @@|cdn.mountainduck.io^$important
 @@|cdn.mwbsys.com^$important
 @@|cdn.onenote.net^$important
+@@|cdn.pling.com^$important
 @@|cdn.podia.com^$important
 @@|cdn.polyfill.io^$important
 @@|cdn.rawgit.com^$important
@@ -1376,6 +1382,7 @@
 @@|js.stripe.com^$important
 @@|k2s.cc^$important
 @@|kb.adguard.com^$important
+@@|kb.mozillazine.org^$important
 @@|kde.modular.im^$important
 @@|kde.org^$important
 @@|kdeconnect.kde.org^$important
@@ -1614,6 +1621,7 @@
 @@|news.usenet.farm^$important
 @@|news.xbox.com^$important
 @@|newvirus.kaspersky.com^$important
+@@|nexus-files.b-cdn.net^$important
 @@|nexusmods.com^$important
 @@|nginx.org^$important
 @@|nike.com^$important
@@ -1975,6 +1983,7 @@
 @@|safebrowsing.googleapis.com^$important
 @@|salesforce.com^$important
 @@|sara.cdntrex.com^$important
+@@|savanna.mozillazine.org^$important
 @@|sb.adtidy.org^$important
 @@|sb.ltn.fi^$important
 @@|scan.hitmanpro.com^$important
@@ -2143,6 +2152,7 @@
 @@|static.alphacoders.com^$important
 @@|static.binglee.com.au^$important
 @@|static.blog.playstation.com^$important
+@@|static.cdn.prismic.io^$important
 @@|static.cdprojektred.com^$important
 @@|static.chemistwarehouse.com.au^$important
 @@|static.cyberdrop.me^$important
@@ -2271,6 +2281,8 @@
 @@|syd1.speedtest.telstra.net^$important
 @@|sydneywater.com.au^$important
 @@|sync.standardnotes.org^$important
+@@|system76.cdn.prismic.io^$important
+@@|system76.com^$important
 @@|t.paypal.com^$important
 @@|ta.wikipedia.com^$important
 @@|taf.teamviewer.com^$important
@@ -2358,6 +2370,7 @@
 @@|tripwireinteractive.com^$important
 @@|ts-crl.ws.symantec.com^$important
 @@|ts-ocsp.ws.symantec.com^$important
+@@|tse1.mm.bing.net^$important
 @@|tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@|tv.vimeo.com^$important
 @@|tw.blog.twitch.tv^$important
@@ -2571,6 +2584,7 @@
 @@|www.gigabyte.com^$important
 @@|www.github.com^$important
 @@|www.github.developerdan.com^$important
+@@|www.gnome-look.org^$important
 @@|www.gog.com^$important
 @@|www.google.com.au^$important
 @@|www.google.com^$important
@@ -2718,3 +2732,4 @@
 @@|zenz-solutions.de^$important
 @@|zerossl.ocsp.sectigo.com^$important
 @@|zia.cdntrex.com^$important
+@@|zorin.com^$important
