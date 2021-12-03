@@ -2,7 +2,7 @@
 
 Version: 1.1.16
 
-Last Updated: 2021-12-03 03:57:39AM
+Last Updated: 2021-12-03 03:44:04PM
 
 ## Intro
 
@@ -23,12 +23,13 @@ _AdGuard-Home-Whitelist © 2021 - hl2guide_
 | Name | Description |
 | ----------- | ----------- |
 | 🏢 Microsoft Products | _Windows 10, account etc_ |
-| ✍ Development Languages | _C#, Python, Golang, Ruby etc_ |
-| 📚 Programming Editors | _Visual Studio Code, Visual Studio and VSCodium_ |
+| 📦 Package Managers | winget and chocolatey |
 | 🔐 Password Managers | _Bitwarden and LastPass_ |
 | 📒 Note Managers | _Standard Notes and Evernote_ |
 | 🎮 PC Game Launchers | _Steam, Epic Games, EA Desktop, XBOX GamePass for PC_ |
 | 🦠 Second-Opinion Malware Scanners | _Malwarebytes, SuperAntispyware, ESET Online Scanner and HitManPro_ |
+| ✍ Development Languages | _C#, Python, Golang, Ruby etc_ |
+| 📚 Programming Editors | _Visual Studio Code, Visual Studio and VSCodium_ |
 | 🏬 Australian specific stores | _JB Hifi, OfficeWorks etc_ |
 | 🏦 Australian government websites | _Election, tax office etc_ |
 
