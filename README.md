@@ -23,7 +23,7 @@ _AdGuard-Home-Whitelist © 2021 - hl2guide_
 | Name | Description |
 | ----------- | ----------- |
 | 🏢 Microsoft Products | _Windows 10, account etc_ |
-| 📦 Package Managers | winget and chocolatey |
+| 📦 Package Managers | _winget and chocolatey_ |
 | 🔐 Password Managers | _Bitwarden and LastPass_ |
 | 📒 Note Managers | _Standard Notes and Evernote_ |
 | 🎮 PC Game Launchers | _Steam, Epic Games, EA Desktop, XBOX GamePass for PC_ |
