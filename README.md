@@ -1,8 +1,8 @@
 # AdGuard-Home-Whitelist ✅
 
-Version: 1.1.15
+Version: 1.1.16
 
-Last Updated: 2021-12-03 09:17:15AM
+Last Updated: 2021-12-03 03:57:39AM
 
 ## Intro
 
@@ -20,23 +20,26 @@ _AdGuard-Home-Whitelist © 2021 - hl2guide_
 
 ### What's Whitelisted ✔
 
-* 🏢 Microsoft products (Windows 10)
-* 💻 Ubuntu (OS)
-* 📔 Development languages (Python, C# etc)
-* ✍ Programming Editors (Visual Studio Code and VSCodium)
-* 🔑 Password Managers (LastPass and Bitwarden)
-* 📓 Note Managers (Standard Notes and Evernote)
-* 🎮 PC Game Launchers (Steam, Epic Games and EA Desktop)
-* 🦠 Second-Opinion Malware Scanners (Malwarebytes, SuperAntispyware, ESET Online Scanner, HitManPro etc)
-* 🏬 Australian specific stores (JB Hifi, OfficeWorks etc)
-* 🏦 Australian government websites (election, tax office etc)
-* and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
+| Name | Description |
+| ----------- | ----------- |
+| 🏢 Microsoft Products | _Windows 10, account etc_ |
+| ✍ Development Languages | _C#, Python, Golang, Ruby etc_ |
+| 📚 Programming Editors | _Visual Studio Code, Visual Studio and VSCodium_ |
+| 🔐 Password Managers | _Bitwarden and LastPass_ |
+| 📒 Note Managers | _Standard Notes and Evernote_ |
+| 🎮 PC Game Launchers | _Steam, Epic Games, EA Desktop, XBOX GamePass for PC_ |
+| 🦠 Second-Opinion Malware Scanners | _Malwarebytes, SuperAntispyware, ESET Online Scanner and HitManPro_ |
+| 🏬 Australian specific stores | _JB Hifi, OfficeWorks etc_ |
+| 🏦 Australian government websites | _Election, tax office etc_ |
+
+and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
 
 ### What's __Not__ Whitelisted 🛑
 
 * 🍏 Apple products or services
 * 💭 Social media sites
 * 🛒 Majority of online shopping sites
+* Ads, trackers and malware, tracking and telemetry (whenever possible)
 
 🖊 Take the above into account and that fact I live in Australia. The whitelist reflects those facts.
 

@@ -850,6 +850,7 @@
 @@|download.epicgames.com^$important
 @@|download.eset.com^$important
 @@|download.macrium.com^$important
+@@|download.manjaro.org^$important
 @@|download.microsoft.com^$important
 @@|download.mozilla.org^$important
 @@|download.msi.com^$important
@@ -935,6 +936,7 @@
 @@|encrypted-tbn1.gstatic.com^$important
 @@|encrypted-tbn2.gstatic.com^$important
 @@|encrypted-tbn3.gstatic.com^$important
+@@|endeavouros.com^$important
 @@|energyaustralia.com.au^$important
 @@|enforcement.spro.xbox.com^$important
 @@|enforcement.xbox.com^$important
@@ -1381,6 +1383,7 @@
 @@|js.hcaptcha.com^$important
 @@|js.stripe.com^$important
 @@|k2s.cc^$important
+@@|ka-f.fontawesome.com^$important
 @@|kb.adguard.com^$important
 @@|kb.mozillazine.org^$important
 @@|kde.modular.im^$important
@@ -1389,6 +1392,7 @@
 @@|keystone.mwbsys.com^$important
 @@|kiboke-studio.hr^$important
 @@|kickasstorrents.to^$important
+@@|kit.fontawesome.com^$important
 @@|kitboga.com^$important
 @@|kmart.com.au^$important
 @@|kmart.com^$important
@@ -1430,6 +1434,7 @@
 @@|links.duckduckgo.com^$important
 @@|links.malwarebytes.com^$important
 @@|links.notifications.soundcloud.com^$important
+@@|linuxmint.com^$important
 @@|listed.standardnotes.org^$important
 @@|listenanddiscover.help.soundcloud.com^$important
 @@|lists.blocklist.de^$important
@@ -1508,6 +1513,7 @@
 @@|mail.xda-developers.com^$important
 @@|majorgeeks.com^$important
 @@|manage.devcenter.microsoft.com^$important
+@@|manjaro.org^$important
 @@|mapbox.com^$important
 @@|maps.google.com^$important
 @@|maps.googleapis.com^$important
@@ -1618,6 +1624,7 @@
 @@|netflix.com^$important
 @@|newassets.hcaptcha.com^$important
 @@|newegg.com^$important
+@@|news.itsfoss.com^$important
 @@|news.usenet.farm^$important
 @@|news.xbox.com^$important
 @@|newvirus.kaspersky.com^$important
@@ -1830,6 +1837,7 @@
 @@|polyfill.io^$important
 @@|pool.apk.aptoide.com^$important
 @@|pool.ntp.org^$important
+@@|pop-iso.sfo2.cdn.digitaloceanspaces.com^$important
 @@|pop.system76.com^$important
 @@|pornhub.com^$important
 @@|pornhubpremium.com^$important
@@ -2506,6 +2514,7 @@
 @@|westus.tts.speech.microsoft.com^$important
 @@|whatsnew.teamviewer.com^$important
 @@|whstatics.cdntrex.com^$important
+@@|wiki.manjaro.org^$important
 @@|wiki.mozilla.org^$important
 @@|wiki.ubuntu.com^$important
 @@|wikihow.com^$important
@@ -2611,6 +2620,7 @@
 @@|www.kudoboard.com^$important
 @@|www.libreoffice.org^$important
 @@|www.lifewire.com^$important
+@@|www.linuxmint.com^$important
 @@|www.localcdn.org^$important
 @@|www.majorgeeks.com^$important
 @@|www.malwarebytes.com^$important
