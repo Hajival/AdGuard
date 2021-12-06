@@ -675,9 +675,11 @@
 @@|contacts.google.com^$important
 @@|contactus.netflix.com^$important
 @@|contactus.samsung.com^$important
+@@|content-hacs.svc.halowaypoint.com^$important
 @@|content-system.gog.com^$important
 @@|content.cloudflare.com^$important
 @@|content.googleapis.com^$important
+@@|content.halocdn.com^$important
 @@|content.hulu.com^$important
 @@|content.invisioncic.com^$important
 @@|content.product.lastpass.com^$important
@@ -950,6 +952,7 @@
 @@|enpass.io^$important
 @@|entitlement-public-service-prod.ak.epicgames.com^$important
 @@|entitlement-public-service-prod08.ol.epicgames.com^$important
+@@|entitlements.svc.halowaypoint.com^$important
 @@|eo.wikipedia.com^$important
 @@|eos-cloudsaves-live.s3.amazonaws.com^$important
 @@|epic-social-game-overlay-prod.ol.epicgames.com^$important
@@ -1107,6 +1110,7 @@
 @@|gamecms-hacs.svc.halowaypoint.com^$important
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gamercard.xbox.com^$important
+@@|gameserverds.xboxlive.com^$important
 @@|gateway.discord.gg^$important
 @@|gateway.ea.com^$important
 @@|gear.playstation.com^$important
@@ -1649,6 +1653,7 @@
 @@|nn.speedtest.vodafone.com.au.prod.hosts.ooklaserver.net^$important
 @@|nn.speedtest.vodafone.com.au^$important
 @@|normandy.cdn.mozilla.net^$important
+@@|notepad-plus-plus.org^$important
 @@|notice.xbox.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
 @@|notificationinbox.xboxlive.com^$important
@@ -1752,6 +1757,7 @@
 @@|packages.chocolatey.org^$important
 @@|packagespc.xboxlive.com^$important
 @@|packaging.python.org^$important
+@@|packs.svc.halowaypoint.com^$important
 @@|pages.ebay.com^$important
 @@|pages.engage.xbox.com^$important
 @@|pages.github.com^$important
@@ -1995,6 +2001,7 @@
 @@|s3-eu-west-1.amazonaws.com^$important
 @@|s3.wasabisys.com^$important
 @@|s334284386.t.eloqua.com^$important
+@@|s3cmscontentassets.blob.core.windows.net^$important
 @@|s82i.app.link^$important
 @@|sabnzbd.org^$important
 @@|safebrowsing.brave.com^$important
@@ -2104,6 +2111,7 @@
 @@|spankbang.com^$important
 @@|sparkcdneus2.azureedge.net^$important
 @@|sparkcdnwus2.azureedge.net^$important
+@@|spartanstats.svc.halowaypoint.com^$important
 @@|spclient.wg.spotify.com^$important
 @@|speech.platform.bing.com^$important
 @@|speed.cloudflare.com^$important
@@ -2321,6 +2329,7 @@
 @@|teams.microsoft.com^$important
 @@|telemetry-clients.svc.halowaypoint.com^$important
 @@|telemetry.malwarebytes.com^$important
+@@|telemetry.svc.halowaypoint.com^$important
 @@|templates.svc.www.evernote.com^$important
 @@|tempm.com^$important
 @@|text.svc.halowaypoint.com^$important
@@ -2352,6 +2361,7 @@
 @@|title.auth.xboxlive.com^$important
 @@|title.mgt.xboxlive.com^$important
 @@|titlehub.xboxlive.com^$important
+@@|titlestorage*.blob.core.windows.net^$important
 @@|titlestorage.xboxlive.com^$important
 @@|titlestorageeus*.blob.core.windows.net^$important
 @@|titlestoragencus0102.blob.core.windows.net^$important
@@ -2407,6 +2417,7 @@
 @@|ufs*.steamcontent.com^$important
 @@|ugc.api.playstation.com^$important
 @@|uhf.microsoft.com^$important
+@@|uif.microsoft.com^$important
 @@|uk.download.nvidia.com^$important
 @@|ul.mediafireuserupload.com^$important
 @@|ul.to^$important
@@ -2718,6 +2729,7 @@
 @@|wwz-production.wwzapi.com^$important
 @@|wwz.wwzapi.com^$important
 @@|x1.c.lencr.org^$important
+@@|xblcx*.cloudapp.net^$important
 @@|xblmessaging.xboxlive.com^$important
 @@|xbox.com^$important
 @@|xbox.ipv6.microsoft.com^$important
