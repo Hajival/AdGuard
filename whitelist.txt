@@ -503,6 +503,7 @@
 @@|cdn-pics.pornhd.com^$important
 @@|cdn-pics.pornhdprime.com^$important
 @@|cdn-static-cf.pornhd.com^$important
+@@|cdn.adguard.com^$important
 @@|cdn.akamai.steamstatic.com^$important
 @@|cdn.base64decode.org^$important
 @@|cdn.betterttv.net^$important
@@ -820,6 +821,7 @@
 @@|dlwnextsetting.cloudapp.net^$important
 @@|dmca.twitch.tv^$important
 @@|dmd.metaservices.microsoft.com^$important
+@@|dns-family.adguard.com^$important
 @@|dns.cloudflare.com^$important
 @@|dns.msftncsi.com^$important
 @@|dns.quad9.net^$important
@@ -844,6 +846,7 @@
 @@|download-installer.cdn.mozilla.net^$important
 @@|download-ssl.xbox.com^$important
 @@|download.acronis.com^$important
+@@|download.adguard.com^$important
 @@|download.anydesk.com^$important
 @@|download.db-ip.com^$important
 @@|download.documentfoundation.org^$important
@@ -940,6 +943,7 @@
 @@|energyaustralia.com.au^$important
 @@|enforcement.spro.xbox.com^$important
 @@|enforcement.xbox.com^$important
+@@|engageub.pythonanywhere.com^$important
 @@|engineering.twitch.tv^$important
 @@|enpass.io^$important
 @@|entitlement-public-service-prod.ak.epicgames.com^$important
@@ -1026,6 +1030,7 @@
 @@|filters.adtidy.org^$important
 @@|fiona.cdntrex.com^$important
 @@|firefox.com^$important
+@@|fishcodelib.com^$important
 @@|fitgirl-repacks.site^$important
 @@|fluffy-blocklist.skcat.tk^$important
 @@|fontawesome-cdn.fonticons.netdna-cdn.com^$important
@@ -1342,6 +1347,7 @@
 @@|io.playstation.com^$important
 @@|ios.nccp.netflix.com^$important
 @@|ios.soundcloud.com^$important
+@@|ip.api.rec.adguard.org^$important
 @@|ipcheck*.jdownloader.org^$important
 @@|ipfs-swarm-ws.hellomouse.net^$important
 @@|ipfs.io^$important
@@ -1463,6 +1469,7 @@
 @@|livetileedge.dsx.mp.microsoft.com^$important
 @@|lobby-hi.svc.halowaypoint.com^$important
 @@|local.adguard.com^$important
+@@|local.adguard.org^$important
 @@|login.aliexpress.com^$important
 @@|login.gog.com^$important
 @@|login.hulu.com^$important
@@ -2064,6 +2071,7 @@
 @@|snapi.live.net^$important
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
 @@|social.playstation.com^$important
+@@|social.technet.microsoft.com^$important
 @@|social.xboxlive.com^$important
 @@|sockets.betterttv.net^$important
 @@|sockets.standardnotes.com^$important
@@ -2157,6 +2165,7 @@
 @@|static-lvlt.xhcdn.com^$important
 @@|static-media-prod-cdn.itsre-sumo.mozilla.net^$important
 @@|static.a.upc.ubisoft.com^$important
+@@|static.adguard.com^$important
 @@|static.alphacoders.com^$important
 @@|static.binglee.com.au^$important
 @@|static.blog.playstation.com^$important
@@ -2446,6 +2455,7 @@
 @@|user.auth.xboxlive.com^$important
 @@|userpresence.xboxlive.com^$important
 @@|users.nexusmods.com^$important
+@@|userscripts.adtidy.org^$important
 @@|userstats.xboxlive.com^$important
 @@|userstyles.world^$important
 @@|usher.ttvnw.net^$important
@@ -2511,6 +2521,7 @@
 @@|web.vortex.data.microsoft.com^$important
 @@|webchat.kde.org^$important
 @@|webinstallers.gog-statics.com^$important
+@@|welcome.adguard.com^$important
 @@|westus.tts.speech.microsoft.com^$important
 @@|whatsnew.teamviewer.com^$important
 @@|whstatics.cdntrex.com^$important
