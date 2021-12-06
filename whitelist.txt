@@ -519,6 +519,7 @@
 @@|cdn.freeones.com^$important
 @@|cdn.fwupd.org^$important
 @@|cdn.globalsigncdn.com.cdn.cloudflare.net^$important
+@@|cdn.gog.com^$important
 @@|cdn.gpsoft.com.au^$important
 @@|cdn.guru99.com^$important
 @@|cdn.houseofmega.com^$important
@@ -674,6 +675,7 @@
 @@|contacts.google.com^$important
 @@|contactus.netflix.com^$important
 @@|contactus.samsung.com^$important
+@@|content-system.gog.com^$important
 @@|content.cloudflare.com^$important
 @@|content.googleapis.com^$important
 @@|content.hulu.com^$important
@@ -1883,6 +1885,7 @@
 @@|profile.gamepass.com^$important
 @@|profile.gigabyte.com^$important
 @@|profile.xboxlive.com^$important
+@@|profiles-static.gog.com^$important
 @@|promo.kaspersky.com^$important
 @@|promotion.aliexpress.com^$important
 @@|promotions.newegg.com^$important
