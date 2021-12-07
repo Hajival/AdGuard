@@ -175,6 +175,7 @@
 @@|analytics.tripwireinteractive.com^$important
 @@|andauth.co^$important
 @@|android.clients.google.com^$important
+@@|answers.ea.com^$important
 @@|answers.microsoft.com^$important
 @@|answersstaticfilecdnv2.azureedge.net^$important
 @@|anydesk.com^$important
@@ -430,6 +431,7 @@
 @@|blog.soundcloud.com^$important
 @@|blog.twitch.tv^$important
 @@|blog.us.playstation.com^$important
+@@|blogs.windows.com^$important
 @@|blzmedia-a.akamaihd.net^$important
 @@|blznav.akamaized.net^$important
 @@|bnetproduct-a.akamaihd.net^$important
@@ -560,6 +562,7 @@
 @@|cdnjs.cloudflare.com^$important
 @@|cdns.us1.gigya.com^$important
 @@|cdp.aliexpress.com^$important
+@@|cdp.cloud.unity3d.com^$important
 @@|cdp.rapidssl.com^$important
 @@|cec.svc.evernote.com^$important
 @@|cem.services.microsoft.com^$important
@@ -662,6 +665,7 @@
 @@|config.edge.skype.com^$important
 @@|config.hulu.com^$important
 @@|config.teams.microsoft.com^$important
+@@|config.uca.cloud.unity3d.com^$important
 @@|configuration.apple.com.akadns.net^$important
 @@|connect.epicgames.dev^$important
 @@|connect.ol.epicgames.com^$important
@@ -747,6 +751,7 @@
 @@|dashboard.snapcraft.io^$important
 @@|dashboard.twitch.tv^$important
 @@|dashbox.soundcloud.com^$important
+@@|data*.origin.com^$important
 @@|data-cdn.mbamupdates.com^$important
 @@|data.nsw.gov.au^$important
 @@|data.product.lastpass.com^$important
@@ -883,6 +888,7 @@
 @@|downloads.sourceforge.net^$important
 @@|downloads.vivaldi.com^$important
 @@|downloads.wisecleaner.com^$important
+@@|dpgsrv.redmond.corp.microsoft.com^$important
 @@|drive-thirdparty.googleusercontent.com^$important
 @@|drive.google.com^$important
 @@|driveroff.net^$important
@@ -964,6 +970,7 @@
 @@|epix.xbox.com^$important
 @@|epl.paypal-communication.com^$important
 @@|eplists.xboxlive.com^$important
+@@|error-reporter.juno.ea.com^$important
 @@|es-mx.twitch.tv^$important
 @@|es.aliexpress.com^$important
 @@|es.blog.twitch.tv^$important
@@ -1035,11 +1042,13 @@
 @@|filterlists.com^$important
 @@|filters.adtidy.org^$important
 @@|fiona.cdntrex.com^$important
+@@|firefox-settings-attachments.cdn.mozilla.net^$important
 @@|firefox.com^$important
 @@|fishcodelib.com^$important
 @@|fitgirl-repacks.site^$important
 @@|fluffy-blocklist.skcat.tk^$important
 @@|fontawesome-cdn.fonticons.netdna-cdn.com^$important
+@@|fonts.ea.com^$important
 @@|fonts.googleapis.com^$important
 @@|fonts.gstatic.com^$important
 @@|fonts.intercomcdn.com^$important
@@ -1213,6 +1222,7 @@
 @@|help-assets.soundcloud.com^$important
 @@|help.bitwarden.com^$important
 @@|help.codesector.com^$important
+@@|help.ea.com^$important
 @@|help.evernote.com^$important
 @@|help.kaspersky.com^$important
 @@|help.kogan.com^$important
@@ -1395,6 +1405,7 @@
 @@|js-agent.newrelic.com^$important
 @@|js.hcaptcha.com^$important
 @@|js.stripe.com^$important
+@@|juno-error-reporter-prod-junoerrorreporters*.s3.amazonaws.com^$important
 @@|k2s.cc^$important
 @@|ka-f.fontawesome.com^$important
 @@|kb.adguard.com^$important
@@ -1712,6 +1723,7 @@
 @@|onedrive.com^$important
 @@|onedrive.live.com^$important
 @@|onedriveclucprodbn*.blob.core.windows.net^$important
+@@|onedriveclucproddm20013.blob.core.windows.net^$important
 @@|onegetcdn.azureedge.net^$important
 @@|onegov.nsw.gov.au^$important
 @@|oneocsp.microsoft.com^$important
@@ -2373,6 +2385,7 @@
 @@|tokensit.cp.microsoft-tst.com/^$important
 @@|torlock.com^$important
 @@|torren.eu^$important
+@@|tos.ea.com^$important
 @@|tpucdn.com^$important
 @@|tr.twitch.tv^$important
 @@|tr.wikipedia.com^$important
@@ -2585,6 +2598,7 @@
 @@|www.apkmirror.com^$important
 @@|www.autohotkey.com^$important
 @@|www.base64decode.org^$important
+@@|www.bcuninstaller.com^$important
 @@|www.binbucks.com^$important
 @@|www.bing.com^$important
 @@|www.binglee.com.au^$important
@@ -2674,6 +2688,7 @@
 @@|www.omgubuntu.co.uk^$important
 @@|www.oo-software.com^$important
 @@|www.oracle.com^$important
+@@|www.origin.com^$important
 @@|www.outlook.com^$important
 @@|www.patreon.com^$important
 @@|www.paypal.com^$important
