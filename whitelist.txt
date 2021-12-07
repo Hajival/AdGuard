@@ -585,6 +585,7 @@
 @@|checkout.stripe.com^$important
 @@|checkout.vimeo.com^$important
 @@|chemistdirect.com.au^$important
+@@|chocolatey.disqus.com^$important
 @@|chocolatey.org^$important
 @@|choice.microsoft.com^$important
 @@|choosealicense.com^$important
@@ -1811,6 +1812,7 @@
 @@|pgl.yoyo.org^$important
 @@|phishing.army^$important
 @@|photo.plus.google.com^$important
+@@|photos-ugc.l.googleusercontent.com^$important
 @@|photos.live.com^$important
 @@|php.net^$important
 @@|pi-hole.net^$important
@@ -2177,6 +2179,7 @@
 @@|static-media-prod-cdn.itsre-sumo.mozilla.net^$important
 @@|static.a.upc.ubisoft.com^$important
 @@|static.adguard.com^$important
+@@|static.ageofempires.com^$important
 @@|static.alphacoders.com^$important
 @@|static.binglee.com.au^$important
 @@|static.blog.playstation.com^$important
@@ -2508,6 +2511,7 @@
 @@|visualstudio-devdiv-c2s.msedge.net^$important
 @@|visualstudio.com^$important
 @@|visualstudio.microsoft.com^$important
+@@|vivaldi.com^$important
 @@|vo2.qrlsx.com^$important
 @@|vod-secure.twitch.tv^$important
 @@|voidtools.com^$important

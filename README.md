@@ -1,8 +1,8 @@
 # AdGuard-Home-Whitelist ✅
 
-Version: 1.1.18
+Version: 1.1.19
 
-Last Updated (AEST): 2021-12-06 08:56:23PM
+Last Updated (AEST): 2021-12-07 01:51:17PM
 
 ## Intro
 
@@ -49,7 +49,7 @@ and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdG
 ### Details
 
 * __Expected AdGuard Home Average RAM Usage:__ around 16MB
-* __Number of Rules:__ over 2600
+* __Number of Rules:__ over 2700
 
 See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
 
