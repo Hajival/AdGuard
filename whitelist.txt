@@ -1,7 +1,13 @@
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*-cdn.eporner.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
+@@|*-glb-bps-gateway.p76prod.systems^$important
+@@|*-glb-bps-loginqueue.p76prod.systems^$important
+@@|*-glb-bps-pushy.p76prod.systems^$important
+@@|*-prod-prodpc01-glb-bps-bigateway.p76prod.systems^$important
+@@|*-prod-prodpc01-reg-httpping.p76prod.systems^$important
 @@|*-prod.wwzapi.com^$important
+@@|*-reg-bps-gatewayreg.p76prod.systems^$important
 @@|*-ring-fallback.msedge.net^$important
 @@|*-ring.msedge.net^$important
 @@|*.*.livefilestore.com^$important
@@ -1381,6 +1387,7 @@
 @@|irc.chat.twitch.tv^$important
 @@|irc.twitch.tv^$important
 @@|is1-ssl.mzstatic.com^$important
+@@|is2-ssl.mzstatic.com^$important
 @@|is5-ssl.mzstatic.com^$important
 @@|it.playstation.com^$important
 @@|it.wikipedia.com^$important
@@ -2377,6 +2384,7 @@
 @@|title.mgt.xboxlive.com^$important
 @@|titlehub.xboxlive.com^$important
 @@|titlestorage*.blob.core.windows.net^$important
+@@|titlestorage.bethesda.net^$important
 @@|titlestorage.xboxlive.com^$important
 @@|titlestorageeus*.blob.core.windows.net^$important
 @@|titlestoragencus0102.blob.core.windows.net^$important
@@ -2566,6 +2574,7 @@
 @@|win10.ipv6.microsoft.com^$important
 @@|winaero.com^$important
 @@|windows.php.net^$important
+@@|windowsterminalthemes.dev^$important
 @@|winget.azureedge.net^$important
 @@|winscp.net^$important
 @@|winstall.app^$important

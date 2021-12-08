@@ -1,8 +1,8 @@
 # AdGuard-Home-Whitelist ✅
 
-Version: 1.1.20
+Version: 1.1.21
 
-Last Updated (AEST): 2021-12-08 10:00:02AM
+Last Updated (AEST): 2021-12-08 02:55:07PM
 
 ## Intro
 
