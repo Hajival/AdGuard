@@ -290,6 +290,7 @@
 @@|archlinux.org^$important
 @@|arctic.emsisoft.com^$important
 @@|ark.mwbsys.com^$important
+@@|arstechnica.com^$important
 @@|artoo.system76.com^$important
 @@|asia.creativecdn.com^$important
 @@|asia.playstation.com^$important
@@ -522,6 +523,7 @@
 @@|cdn.cookielaw.org^$important
 @@|cdn.cyberdrop.me^$important
 @@|cdn.cyberdrop.to^$important
+@@|cdn.datatables.net^$important
 @@|cdn.discordapp.com^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.freeones.com^$important
@@ -778,6 +780,7 @@
 @@|def-vef.xboxlive.com^$important
 @@|definitionsbd.adaware.com^$important
 @@|definitionupdates.microsoft.com^$important
+@@|defkey.com^$important
 @@|degoo.com^$important
 @@|deliver.ptgncdn.com^$important
 @@|dell.com^$important
@@ -1011,6 +1014,7 @@
 @@|extensions.jdownloader.org^$important
 @@|extensions.libreoffice.org^$important
 @@|external-content.duckduckgo.com^$important
+@@|external-offer-mapping-service.juno.ea.com^$important
 @@|f-droid.org^$important
 @@|f-secure.com^$important
 @@|f.cyberdrop.cc^$important
@@ -1084,6 +1088,7 @@
 @@|fp-*.azurefd.net^$important
 @@|fp-afd-nocache-ccp.azureedge.net^$important
 @@|fp-afd.azureedge.net^$important
+@@|fp-afd.azureedge.us^$important
 @@|fp-vp.azureedge.net^$important
 @@|fp-vs-nocache.azureedge.net^$important
 @@|fp-vs.azureedge.net^$important
@@ -1127,6 +1132,7 @@
 @@|gamelogs.live.bhvrdbd.com^$important
 @@|gamercard.xbox.com^$important
 @@|gameserverds.xboxlive.com^$important
+@@|gaminglppc.azurefd.net^$important
 @@|gateway.discord.gg^$important
 @@|gateway.ea.com^$important
 @@|gear.playstation.com^$important
@@ -1905,6 +1911,7 @@
 @@|prod-notification-websocket.bethesda.net^$important
 @@|prod-www.malwarebytes.com^$important
 @@|prod.cloud.rockstargames.com^$important
+@@|prod.rewardsplatform.microsoft.com^$important
 @@|productcard.gog-statics.com^$important
 @@|production-appsync.degoo.com^$important
 @@|production.assets.clips.twitchcdn.net^$important
@@ -2308,6 +2315,7 @@
 @@|support.asia.playstation.com^$important
 @@|support.cloudflare.com^$important
 @@|support.content.office.net^$important
+@@|support.halowaypoint.com^$important
 @@|support.jbhifi.com.au^$important
 @@|support.jdownloader.org^$important
 @@|support.jp.playstation.com^$important
@@ -2696,6 +2704,7 @@
 @@|www.officeworks.com.au^$important
 @@|www.omgubuntu.co.uk^$important
 @@|www.oo-software.com^$important
+@@|www.opensubtitles.com^$important
 @@|www.oracle.com^$important
 @@|www.origin.com^$important
 @@|www.outlook.com^$important
@@ -2757,6 +2766,7 @@
 @@|wwz-production.wwzapi.com^$important
 @@|wwz.wwzapi.com^$important
 @@|x1.c.lencr.org^$important
+@@|x1streamingplans.azureedge.net^$important
 @@|xblcx*.cloudapp.net^$important
 @@|xblmessaging.xboxlive.com^$important
 @@|xbox.com^$important
