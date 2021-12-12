@@ -22,9 +22,6 @@
 
 # ================================================================================================
 
-# 🛑 Blocks everything
-*.*
-
 # 🛑 Priority blocks all HTTP traffic (insecure links)
 ||http://$important
 
